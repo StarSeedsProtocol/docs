@@ -6,5 +6,3 @@
 * Maximum Supply at initialization: 10,000,000,000
 * Burn on Transfer: 0.2%
 * Tax on Transfer: 0.5%
-
-\

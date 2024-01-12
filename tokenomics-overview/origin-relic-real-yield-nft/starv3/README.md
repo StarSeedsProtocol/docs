@@ -8,4 +8,3 @@ The initial supply of 10M STARV3 is held inside the StarSeeds Master Polygon Tre
 * **Maximum Supply at initialization:** 10,000,000
 * **Burn on Transfer:** 0.11%
 * **Tax on Transfer:** 0.11%
-
