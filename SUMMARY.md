@@ -8,5 +8,5 @@
   * [SP (STAR-Power)](tokenomics-overview/sp-star-power.md)
   * [SSC (STAR-Credits)](tokenomics-overview/ssc-star-credits.md)
   * [SSG (STAR-GOV)](tokenomics-overview/ssg-star-gov.md)
-  * [Page 1](tokenomics-overview/page-1.md)
+  * [Origin Relic: Real Yield NFT](tokenomics-overview/origin-relic-real-yield-nft.md)
 * [Security](security.md)
