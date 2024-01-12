@@ -11,5 +11,6 @@
 * [SSC (STAR-Credits)](ssc-star-credits.md)
 * [SP (STAR-Power)](sp-star-power.md)
 * [Origin Relic: Real Yield NFT](origin-relic-real-yield-nft.md)
-* [Page](page.md)
 * [Security](security.md)
+* [Dao](dao.md)
+* [Adventure Miles- Airdrop](adventure-miles-airdrop.md)
