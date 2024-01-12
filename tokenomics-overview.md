@@ -15,7 +15,7 @@ description: StarSeeds Protocol Tokeomics
 6. **Autocompounding with V3 LP Tokens:** For increased returns.
 7. **Tax on Transfer Token.**
 
-**Key Characteristics of STARV3-Native Token:**
+**Key Characteristics of STARV3 Token:**
 
 * **Automated Buying Pressure:** Generated through arbitrage trading bots to consistently increase trade volume.
 * **Diminishing Max Supply:** 0.22% burn fee per transaction, introducing a deflationary mechanism.
