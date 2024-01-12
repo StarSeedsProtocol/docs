@@ -27,12 +27,6 @@ StarSeeds Ecosystem functions through various advanced DeFi mechanisms. It serve
 * Purchase only from an existing LP.
 * TVL of STARV3 LP Network affects exchange rate.
 
-**Security and Safety Standards:**
-
-* **StarSeeds Protocol:** Utilizes the most secure contracts globally.
-* **Security Features:** Gnosis Safe Multisig, Dodoex Tokens, & Uniswap/Balancer LP contracts.
-* **High Standard Security:** Secured billions in value, top-tier audits, and cryptographic smart contract security.
-
 **Non-STARV3 Automated V3 Liquidity Management & Arbitrage Trading:** Generates additional revenues, some of which are used to expand the STARV3 LP Network.
 
 Implementing V3 liquidity management, along with ve 3,3 locking and rebasing mechanisms, enhances profitability in liquidity pools. Additionally, integrating both same-chain and omni-chain arbitrage bots increases revenue from market movements

@@ -1,7 +1,3 @@
----
-description: STARV3 Tokenomics
----
-
 # STARV3
 
 **STARV3 is StarSeeds Protocol’s flagship token, designed for maximum exchange rate growth.**

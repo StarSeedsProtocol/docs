@@ -1,8 +1,4 @@
----
-description: STARV3-M Tokenomics
----
-
-# STAR-Materia (STARV3-M)
+# STARV3-M (STAR-Materia)
 
 **STARV3-M is designed for stability & steady exchange rate growth.** Primarily paired to WBTC/tBTC/USDC and interest-bearing derivative tokens such as wCash/yvUSDC-A, WBTC-tBTC & WBTC-USDC V3 on-chain managed, compounding LP tokens.
 
