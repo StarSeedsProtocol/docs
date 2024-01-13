@@ -1,7 +1,5 @@
 # Adventure Miles- Airdrop
 
-ConnectSubscribeStarSeeds Adventures Season One Airdrop Reward CampaignStarSeeds&#x20;
-
 **To kick-start the launch of the STARV3 Automated Trading Network, StarSeeds Protocol is distributing $730K in token incentives to early adopters that earn StarSeeds Adventure Miles.**
 
 **To start earning Adventure Miles, head to the** [**StarSeeds Guild**](https://guild.xyz/starseeds-protocol) **and reach rank two to obtain your StarSeed SoulBound Unique Identifier NFT. After minting a SSBID, Adventure Miles will start to accumulate for the following activities:**
