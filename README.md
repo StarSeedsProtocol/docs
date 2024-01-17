@@ -1,6 +1,6 @@
 # Basics
 
-**The StarSeeds Protocol evaluates and deploys** on-chain decentralized strategies (DEX) to maximize gains for StarSeeds Protocol token holders, liquidity providers and partners.&#x20;
+**The StarSeeds Protocol deploys** DeFi strategies, yield-generating protocols, and automated trading algorithms to offer higher gains for our users. We engineer and structure strategies deployed on Polygon smart-contracts, with objectives ranging from maximizing yield to principal protection and drawdown mitigation.
 
-**StarSeeds Protocol STARV3** on Polygon alongside a suite of synergistic smart contracts designed to increase STARV3’s liquidity, trade volume, and exchange rate over time.
+**STARV3, our Flagship Token,**  is deployed on Polygon alongside a suite of synergistic smart contract designed to contiously increase STARV3’s liquidity, trade volume, and relative exchange rate regardless of market conditions.
 
