@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Basics](README.md)
+* [Intro to StarSeeds Protocol](README.md)
 * [Interacting with StarSeeds Protocol](interacting-with-starseeds-protocol.md)
 * [StarSeeds Protocol Functions](starseeds-protocol-functions.md)
 * [Tokenomics - STARV3](tokenomics-starv3/README.md)
