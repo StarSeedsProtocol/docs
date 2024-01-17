@@ -7,4 +7,3 @@
 * **Origin Relic NFT Contract:** 0x76e9C64c4aAb66EF7E2c1b2EDa03f4D0413E9572
 * **Origin Streaming Contract:** 0xa0E36F9F7eC0B00851dD25053ceeA0517a692A51
 * **Maximum Supply:** 1,000 Origin Relic NFT
-* **Cost to Mint:** 2,468 Matic, or 17 STARV3, or 20,000 SSC.
