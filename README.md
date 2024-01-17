@@ -2,8 +2,7 @@
 
 **StarSeeds Protocol engineers and** **deploys** DeFi strategies, yield-generating protocols, and automated trading algorithms with the objectives of maximizing yield, principal protection and drawdown mitigation.
 
-**STARV3, our Flagship Token,** is deployed on Polygon alongside a suite of synergistic smart contract engineered to consistently increase STARV3’s liquidity, trade volume, and relative exchange rate regardless of market conditions. \
-
+**STARV3, our Flagship Token,** is deployed on Polygon alongside a suite of synergistic smart contract engineered to consistently increase STARV3’s liquidity, trade volume, and relative exchange rate regardless of market conditions.&#x20;
 
 ### StarSeeds Protocol's Technology increases STARV3's Exchange Value by
 
@@ -16,6 +15,3 @@
 \- Reducing STARV3's circulating supply via permanent autocompounding liquidity pools.\
 \
 \- Backing STARV3 tokens primarily with ETH/BTC/MATIC/USDC.&#x20;
-
-
-
