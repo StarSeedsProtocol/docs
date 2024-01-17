@@ -1,6 +1,6 @@
-# Basics
+# Intro to StarSeeds Protocol
 
-**The StarSeeds Protocol engineers and** **deploys** DeFi strategies, yield-generating protocols, and automated trading algorithms with the objective of maximizing yield, principal protection and drawdown mitigation.
+**StarSeeds Protocol engineers and** **deploys** DeFi strategies, yield-generating protocols, and automated trading algorithms with the objective of maximizing yield, principal protection and drawdown mitigation.
 
 **STARV3, our Flagship Token,** is deployed on Polygon alongside a suite of synergistic smart contract engineered to consistently increase STARV3’s liquidity, trade volume, and relative exchange rate regardless of market conditions. \
 \
