@@ -2,8 +2,8 @@
 
 * [Basics](README.md)
 * [Interacting with StarSeeds Protocol](interacting-with-starseeds-protocol.md)
-* [Tokenomics Overview](tokenomics-overview.md)
-* [STARV3 - StarSeeds Protocols Primary Token](starv3.md)
+* [StarSeeds Protocol Functions](starseeds-protocol-functions.md)
+* [Tokenomics - STARV3](tokenomics-starv3.md)
 * [STARV3-M (STAR-Materia)](starv3-m-star-materia.md)
 * [SP (STAR-Power)](sp-star-power.md)
 * [SSG (STAR-GOV)](ssg-star-gov.md)

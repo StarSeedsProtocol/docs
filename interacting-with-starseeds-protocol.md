@@ -1,7 +1,3 @@
----
-description: Discover the StarSeeds Ecosystem
----
-
 # Interacting with StarSeeds Protocol
 
 * **For LP Providers and Token Holders**:
