@@ -12,6 +12,6 @@
 * **For Traders**:
   * Optimize your portfolio with StarSeeds Protocol DAO's private trading signals.
   * Increase gains on profitable strategies without additional risk by earning token rewards from [sharing real time trading strategies with the StarSeeds DAO](https://docs.google.com/forms/d/e/1FAIpQLSf6TiAeS-bSxSr-nTbpyJ27fzTHkTtYYFW9M\_lDKI\_hgVSJvQ/viewform).&#x20;
-  * Earn additional rewards from StarSeeds Protocol's [Adventure Miles Reward Program](adventure-miles-airdrop.md).
+  * Earn additional rewards from StarSeeds Protocol's [Adventure Miles Reward Program](adventure-miles-reward-campaign.md).
 
 \
