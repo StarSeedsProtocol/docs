@@ -9,6 +9,7 @@
 * [SSG (STAR-GOV)](ssg-star-gov.md)
 * [SSC (STAR-Credits)](ssc-star-credits.md)
 * [Origin Relic: Real Yield NFTs](origin-relic-real-yield-nft.md)
+* [Contracts](contracts.md)
 * [Security](security.md)
 * [Dao](dao.md)
 * [Adventure Miles- Reward Campaign & Airdrop](adventure-miles-airdrop.md)
