@@ -1,4 +1,4 @@
-# Adventure Miles- Airdrop
+# Adventure Miles- Reward Campaign & Airdrop
 
 **To kick-start the launch of the STARV3 Automated Trading Network, StarSeeds Protocol is distributing $730K in token incentives to early adopters that earn StarSeeds Adventure Miles.**
 

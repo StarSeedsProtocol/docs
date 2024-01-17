@@ -1,8 +1,12 @@
 # SP (STAR-Power)
 
-SP (STAR-Power) is designed for maximum volatility and periods of exponential exchange rate growth. Primarily paired to ETH/MATIC, leveraged or interest-bearing derivative tokens such as ETHBULL3X, wstETH, WETH-MATIC V3 on-chain managed, compounding LP tokens & volatile, high volume tokens such as oRETRO, liveRETRO, and MiMATIC.
+SP is designed for maximum volume and volatility with an eventual exponential growth period. \
+\
+Primarily paired to ETH/MATIC, leveraged or interest bearing derivative tokens such as ETHBULL3X, wstETH, WETH-MATIC V3 on-chain managed, compounding LP tokens & volatile, high volume to TVL farming and gamefi tokens.&#x20;
 
-SP (Star-Power) is used routinely by the StarSeeds Protocol to swap for STARV3 tokens, which are then used to mint or trade for Origin Relic NFTs. The token yield from NFTs minted this way is used to trade for SP.\
+SP is used routinely by the StarSeeds Protocol to swap for STARV3 tokens, which are then used to mint or trade for Origin Relic NFTs. The token yield from NFTs obtained this way are then used perpetually to buy SP. \
+\
+Additional mechanisms that create automated buying pressure over time for SP are being developed. \
 \
 **Key Stats of SP**
 

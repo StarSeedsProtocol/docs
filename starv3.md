@@ -6,9 +6,7 @@
 * **Automated Trade Volume:** Generated through arbitrage trading bots to consistently drive increasing trade volume to STARV3 LPs.
 * **Diminishing Max Supply:** 0.11% burn fee per transaction, reducing STARV3's maximum supply with every transfer.&#x20;
 * **Permanent Liquidity Growth:** 0.11% protocol transfer fee utilized to increase STARV3 liquidity.
-* **Controlled Circulating Supply:** No STARV3 ICO or TGE, the 10 Million STARV3 minted upon creation is held within the StarSeeds Protocol's Multisig and exclusively deployed into STARV3 liquidity pools. \
-  \
-
+* **Controlled Circulating Supply:** No STARV3 ICO or TGE, the 10 Million STARV3 minted upon creation is held within the StarSeeds Protocol's Multisig and exclusively deployed into STARV3 liquidity pools.&#x20;
 
 **Key Stats of STARV3:**
 

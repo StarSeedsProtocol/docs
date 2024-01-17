@@ -1,4 +1,4 @@
-# Origin Relic: Real Yield NFT
+# Origin Relic: Real Yield NFTs
 
 **Claimable Transfer Fees:** 100% of the transfer fee from the StarSeeds Protocol tokens are proportionately claimable by Origin Relic Holders. Each Relic entitles the holder to a 1/1000th share of all taxed transfers.
 
