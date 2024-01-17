@@ -11,5 +11,5 @@
 * [Origin Relic: Real Yield NFTs](origin-relic-real-yield-nft.md)
 * [Contracts](contracts.md)
 * [Security](security.md)
-* [Dao](dao.md)
+* [StarSeeds DAO](starseeds-dao.md)
 * [Adventure Miles- Reward Campaign & Airdrop](adventure-miles-airdrop.md)
