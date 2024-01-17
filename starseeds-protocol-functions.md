@@ -40,6 +40,10 @@ StarSeeds Protocol tokens mitigate MEV and JIT attacks by rendering such attacks
 
 Evaluation and integration of small-cap market tokens with the lowest risks and highest upside potential.&#x20;
 
+### Real Yield NFTs
+
+StarSeeds Protocol NFTs distribute tokens to their holders that are generated from StarSeeds Protocol Trading Strategies and ecosystem token transfer fees.&#x20;
+
 ### Advanced Liquidity Management
 
 **-** V3 liquidity pools surpass V2 revenues for LP providers by up to 4000 times. \
@@ -47,3 +51,4 @@ Evaluation and integration of small-cap market tokens with the lowest risks and 
 \- Employing arbitrage bots increases trading volume by over 5 times.\
 \
 **StarSeeds Protocol's Smart Routing Liquidity Pools have several hundred times higher swap volume and liquidity provider revenues than standard V2 liquidity pools.**&#x20;
+
