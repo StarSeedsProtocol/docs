@@ -1,17 +1,15 @@
 # Intro to StarSeeds Protocol
 
-**StarSeeds Protocol engineers and** **deploys** DeFi strategies, yield-generating protocols, and automated trading algorithms with the objectives of maximizing yield, principal protection and drawdown mitigation.
+**StarSeeds Protocol engineers and** **deploys** DeFi strategies, yield-generating smart contracts, and automated trading algorithms with the objectives of maximizing yield, principal protection and drawdown mitigation.\
 
-**STARV3, our Flagship Token,** is deployed on Polygon alongside a suite of synergistic smart contract engineered to consistently increase STARV3’s liquidity, trade volume, and relative exchange rate regardless of market conditions.&#x20;
 
-### StarSeeds Protocol's Technology increases STARV3's Exchange Value by
+**STARV3, a Tax-on-Transfer Token deployed to Polygon,** is designed to consistently increase STARV3’s liquidity, trade volume, and relative exchange rate to MATIC/ETH/BTC/USDC in all market conditions. \
 
-\- Increasing buying pressure and liquidity for STARV3 with STARV3 Liquidity Pool Network swap fees & Tax-on-Transfer revenues. \
+
+**MATIC-S/USD-S/BTC-S DeFi Yield Derivative Tokens that** appreciate in value compared to the original, similar to MaticX and stMATIC. \
 \
-\- Increasing STARV3 trade volume from automated arbitrage trading. \
+Unlike similar tokens,  S Tokens stake the original token into liquidity pools for usage in DEX trading. The compounded fees from protocol owned S-Token liquidity combined with a 0.08% tax on transfer fee increases the relative value over time of S tokens compared to the original tokens. \
 \
-\- Reducing maximum supply from STARV3's hardcoded 0.11% Burn-On-Transfer fee.\
 \
-\- Reducing STARV3's circulating supply via permanent autocompounding liquidity pools.\
-\
-\- Backing STARV3 tokens primarily with ETH/BTC/MATIC/USDC.&#x20;
+**Automated Arbitrage Optimized Liquidity Pool Networks** that maximize trading volume & fees from combining specifically configured Balancer V2, DodoEX Stable, Quickswap V2, & Quickswap V3 liquidity pools.&#x20;
+
