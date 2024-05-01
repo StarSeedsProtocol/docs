@@ -24,10 +24,6 @@ Multiplying Liquidity, Volume, and Revenues with [Steer](https://steer.finance) 
 
 **Non-Native Automated V3 Liquidity Management, Farming and Arbitrage Trading, g**enerates additional revenues, some of which are deposited in STARV3 Liquidity Pools.&#x20;
 
-### Backed by BTC/ETH/MATIC/USDC
-
-STARV3 is Primarily backed by BTC/ETH/MATIC/USDC tokens which are used in Native and Non-Native StarSeeds Protocol Liquidity Pools and Trading Strategies.&#x20;
-
 ### Best-In-Industry Security & Insurance
 
 Audits by PeckShield, SlowMist, CerTik, and Sherlock, Treasury Insurance by Nexus Mutual and InsurAce, and protected by Immune Fi Bug Bounty Programs.&#x20;
@@ -50,5 +46,7 @@ StarSeeds Protocol NFTs distribute tokens to their holders that are generated fr
 \- Leveraging liquidity positions can boost revenue by up to 7 times.\
 \- Employing arbitrage bots increases trading volume by over 5 times.\
 \
-**StarSeeds Protocol's Smart Routing Liquidity Pools have several hundred times higher swap volume and liquidity provider revenues than standard V2 liquidity pools.**&#x20;
+**StarSeeds Protocol's Smart Routing Liquidity Pools have several hundred times higher swap volume and liquidity provider revenues than standard V2 liquidity pools.**\
+\
+**The vast majority of revenues from StarSeeds Protocol's LP network are compounded into STARV4, which increases STARV4's exchange value automatically and contiously compared to BTC/ETH/USDC/MATIC and other tokens.**&#x20;
 
