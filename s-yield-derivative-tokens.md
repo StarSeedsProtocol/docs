@@ -6,7 +6,7 @@ Unlike other yield bearing tokens, S tokens do not represent Matic/ETH that has 
 \
 Rather, S tokens are tokens automatically deployed in a network of liquidity pools that facilitate automated arbitrage trades in such a way that creates regular and growing trade volume.
 
-With every swap executed with S tokens, S tokens become more valuable compared due to the 0.08% transfer fee on S tokens reducing their supply combined with permanently compounded StarSeeds Protocol owned liquidity pool swap fees increasing the amount of backing each S token has. \
+With every swap executed with S tokens, S tokens become more valuable compared to the underlying token due to the 0.08% transfer fee on S tokens reducing their supply combined with permanently compounded StarSeeds Protocol owned liquidity pool swap fees increasing the amount of backing each S token has. \
 \
 MATIC-S Contract Address: [0x63d38FCf3cC014735B28339F47EC3FA9BA97b4B9](https://polygonscan.com/token/0x63d38fcf3cc014735b28339f47ec3fa9ba97b4b9?a=0xf60de76791c2f09995df52aa1c6e2e7dcf1e75d7)\
 \
