@@ -2,8 +2,8 @@
 
 * **For LP Providers and Token Holders**:
   * Automatically Arbitraged Liquidity Pools provide higher than standard LP Provider revenues.
-  * STARV3's relative exchange rate increases due to STARV3's reducing maximum supply from a 0.22% tax on transfer fee combined with permanent and growing liquidity from StarSeeds Protocol's autocompounding pools.
-  * STARV3 is backed by BTC/ETH/MATIC/USDC/LINK and other high value tokens in StarSeeds Protocol's autocompounding liquidity pools. \
+  * STARV4's relative exchange rate increases due to STARV4's reducing maximum supply from it's burn on transfer fee combined with permanent and growing liquidity from StarSeeds Protocol's autocompounding pools.
+  * STARV3 is backed by BTC/ETH/MATIC/USDC/GHST and other high value tokens in StarSeeds Protocol's autocompounding liquidity pools. \
 
 * **For Protocols**:
   * StarSeeds Protocol offers DEXs, Automated Liquidity Management, Lending, Synthetics & Bridging Protocols with increasing long-term trade liquidity and trade volume.&#x20;
