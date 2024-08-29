@@ -9,3 +9,4 @@
 * [Contracts](contracts.md)
 * [Security](security.md)
 * [StarSeeds DAO](starseeds-dao.md)
+* [STARV4 Tokenomics](starv4-tokenomics.md)
