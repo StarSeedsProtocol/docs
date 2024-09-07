@@ -1,5 +1,13 @@
 # STARV4 Tokenomics
 
+On April 19th, 2024, StarSeeds Protocol Deployed STARV4, a BitBond Token Factory generated contract audited by Certik.
+
+[STARV4 Contract Address: 0x61fFE097137d543f019F5257E1a1Ff7A6C5F0b68](https://polygonscan.com/token/0x61ffe097137d543f019f5257e1a1ff7a6c5f0b68)
+
+[BitBond Token Factory Certik Audit](https://skynet.certik.com/projects/bitbond).
+
+STARV4 contract functionality allows for an adjustable transfer tax rate, which allows the StarSeeds Protocol to adjust the swap rate to maximize revenues from the StarSeeds Protocol's automated arbitrage trade optimized liquidity pool network.\
+\
 STARV4 initial Supply: 10,000,000. \
 \
 STARV4 Initial Distribution: \
