@@ -8,3 +8,4 @@
 * [Contracts](contracts.md)
 * [Security](security.md)
 * [StarSeeds DAO](starseeds-dao.md)
+* [Mission and Vision](mission-and-vision.md)
