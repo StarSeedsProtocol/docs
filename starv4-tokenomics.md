@@ -10,9 +10,9 @@ STARV4 contract functionality allows for an adjustable transfer tax rate, which 
 \
 STARV4 initial Supply: 10,000,000. \
 \
-STARV4 Initial Distribution: \
-500,000 for StarSeeds Founding Team, 4 year linear vest from 8/28/2024. \
-Remaining 9,500,000 Tokens held in StarSeeds Protocol Treasury. \
+**STARV4 Initial Team Distribution:**  \
+\- 500,000 for StarSeeds Founding Team, 4 year linear vest from 8/28/2024. \
+\- Remaining 9,500,000 Tokens held in StarSeeds Protocol Treasury, which is managed by the StarSeeds Protocol DAO. \
 \
 **STARV4 in the StarSeeds Protocol's Treasury is considered locked, and is only unlocked under one of four circumstances.**\
 \
