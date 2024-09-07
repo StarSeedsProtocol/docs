@@ -10,8 +10,8 @@ The StarSeeds DAO votes on [snapshot](https://sdao.pro/vote). \
 * **10%** for StarSeeds Protocol.
 * **20%** for the expert trading council.
 * **30%** for early adopter incentives (2-3 years).
-* **50%** of SSG is decided by the DAO.
-* Extra SSG is vested over 4 years.
+* **50%** of SSG is to be decided by the DAO.
+* Extra SSG is to be vested over 4 years.
 
 #### Liquidity Reserve Management by StarSeeds DAO
 
