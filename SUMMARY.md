@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introducing the StarSeeds Protocol](README.md)
-* [Interacting with StarSeeds Protocol](interacting-with-starseeds-protocol.md)
 * [StarSeeds Protocol Functions](starseeds-protocol-functions.md)
 * [STARV4 Tokenomics](starv4-tokenomics.md)
 * [SS Yield Derivative Tokens](ss-yield-derivative-tokens.md)
