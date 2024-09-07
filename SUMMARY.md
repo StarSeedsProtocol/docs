@@ -10,3 +10,4 @@
 * [Security](security.md)
 * [StarSeeds DAO](starseeds-dao.md)
 * [Timeline](timeline.md)
+* [Disclaimer](disclaimer.md)
