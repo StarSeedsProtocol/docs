@@ -18,7 +18,7 @@ STARV4 initial Supply: 10,000,000. \
 \
 1\. When STARV4 is paired with non-native tokens generated from the StarSeeds Protocol's External Treasury and deposited into StarSeeds Protocol owned liquidity pools. \
 \
-3\. When a Liquidity-as-a-Service Proposal is passed, STARV4 is paired with the approved token and deposited into StarSeeds Protocol owned liquidity pools. \
+2\. When a Liquidity-as-a-Service Proposal is passed, STARV4 is paired with the approved token and deposited into StarSeeds Protocol owned liquidity pools. \
 \
 3\. When StarSeeds Protocol owned concentrated liquidity pools become off-centered towards the side of having too little STARV4, new concentrated liquidity pools with additional STARV4 from the Treasury are created. \
 \
