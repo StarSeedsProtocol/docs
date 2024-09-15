@@ -1,10 +1,10 @@
 # Introducing the StarSeeds Protocol
 
-**StarSeeds Protocol** engineers, deploys, and optimizes DeFi strategies, smart contracts, and automated trading algorithms with the goals of maximizing yield, protecting principal, ensuring security, and mitigating drawdowns.&#x20;
+**StarSeeds Protocol** is a DeFi platform that connects users with high-yielding strategies, transforming volatility into revenue through a regenerative system of tax-on-transfer tokens, liquidity pools, and yield bearing NFTs.&#x20;
 
-**STARV4** is an adaptive tax-on-transfer token by StarSeeds Protocol. It maintains a growing exchange rate that is designed to outperform the market growth rates of BTC, ETH, and other mainstream tokens that it it paired with in Liquidity Pools.
+**STARV4, by StarSeeds Protocol** is an adaptive tax-on-transfer token designed to increase in value compared to the market. It maintains a growing exchange rate that is designed to outperform the market growth rates of BTC, ETH, and other mainstream tokens that it it paired with in Liquidity Pools.
 
-**STARV4** is a DeFi token engineered to profit from market volatility, regardless of token prices rising or falling. With no initial coin offering (ICO), all STARV4 enters circulation solely through liquidity pools, ensuring that 100% of STARV4 in circulation is backed by high-value assets like BTC, ETH, and USD. **This structure allows token-holders to earn fees from trading activities in any market condition.**
+**STARV4** is a DeFi token engineered to profit from market volatility, regardless of token prices rising or falling. All STARV4 enters circulation solely through liquidity pools, ensuring that 100% of STARV4 in circulation is backed by high-value assets like BTC, ETH, and USD. **This structure allows token-holders to earn fees from trading activities in any market condition.**
 
 * **No ICO:** STARV4 didn’t have an initial coin offering; all STARV4 enters circulation solely via liquidity pools, which means 100% of STARV4 in circulation is backed by BTC/ETH/USD and other high-value tokens.
 * **Adaptable Burn Tax:** STARV4 features an adaptive burn rate ranging from 0.04% to 2%, which reduces STARV4’s circulating supply and increases its relative exchange rate.
