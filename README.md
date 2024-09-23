@@ -4,7 +4,7 @@
 
 **STARV4, by StarSeeds Protocol** is an adaptive tax-on-transfer token designed to increase in value compared to the market. It maintains a growing exchange rate that is designed to outperform the market growth rates of BTC, ETH, and other mainstream tokens that it it paired with in Liquidity Pools.
 
-**STARV4** is a DeFi token engineered to profit from market volatility, regardless of token prices rising or falling. All STARV4 enters circulation solely through liquidity pools, ensuring that 100% of STARV4 in circulation is backed by high-value assets like BTC, ETH, and USD. **This structure allows token-holders to earn fees from trading activities in any market condition.**
+**STARV4** is a DeFi token engineered to profit from market volatility, regardless of token prices rising or falling. All STARV4 enters circulation solely through liquidity pools, ensuring that 100% of STARV4 in circulation is backed by major market pairings like BTC, ETH, and USD. **This structure allows token-holders to earn fees from trading activities in any market condition.**
 
 * **No ICO:** STARV4 didn’t have an initial coin offering; all STARV4 enters circulation solely via liquidity pools, which means 100% of STARV4 in circulation is backed by BTC/ETH/USD and other high-value tokens.
 * **Adaptable Burn Tax:** STARV4 features an adaptive burn rate ranging from 0.04% to 2%, which reduces STARV4’s circulating supply and increases its relative exchange rate.
