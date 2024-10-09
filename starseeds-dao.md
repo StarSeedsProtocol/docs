@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/Isa Art 15 (1).jpeg
+coverY: 28
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # StarSeeds DAO
 
 The StarSeeds DAO votes on [snapshot](https://sdao.pro/vote). \

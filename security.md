@@ -1,3 +1,22 @@
+---
+cover: .gitbook/assets/Isa Art 6.jpeg
+coverY: 122
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Security
 
 **StarSeeds Protocol** utilizes the most secure contracts globally, which secure billions in value with top-tier audits and cryptographic smart contract security. Security features include Gnosis Safe Multisig, Dodoex Tokens, and Uniswap/Balancer LP contracts.\
