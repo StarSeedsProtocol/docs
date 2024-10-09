@@ -43,7 +43,7 @@ The council strategically allocates liquidity reserves to various assets and inv
 
 **Community-Driven Governance:**
 
-StarSeeds Protocol advocates for decentralized governance, with improvement proposals initiated through discussions and feedback from all token holders within the community. These proposals, known as StarSeeds Improvement Proposals (SIPs), are presented and voted on via the StarSeeds Snapshot Portal. **No more than 5% SSG can be added in a single proposal.**
+StarSeeds Protocol advocates for decentralized governance, with improvement proposals initiated through discussions and feedback from all token holders within the community. These proposals, known as StarSeeds Improvement Proposals (SIPs), are presented and voted on via the StarSeeds Snapshot Portal. No more than 5% SSG can be added in a single proposal.
 
 **Governance:**
 
