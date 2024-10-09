@@ -23,6 +23,10 @@ layout:
 
 STARV4 is a new kind of cryptocurrency index token that derives it's value from a DAO governed liquidity pool network index of top cryptocurrencies like BTC/ETH/USDC/LINK/MATIC and exceptional small cap tokens with good tokenomics, new technology applications, and many times higher expected upside than downside. Examples: GHST, GEOD, IXT, DIMO, OM.
 
+[STARV4 Address: 0x61fFE097137d543f019F5257E1a1Ff7A6C5F0b68](https://polygonscan.com/token/0x61ffe097137d543f019f5257e1a1ff7a6c5f0b68) (Polygon Network)\
+\
+[Trade STARV4 here](https://sdao.pro/swap-starv4). Some regions are restricted. Alternatively use any other DEX aggregator on Polygon by inserting the STARV4 Contract address into the swap widget.\
+\
 STARV4 features four major technological innovations that substantially increase the value and effectiveness of STARV4 compared to standard index tokens.
 
 1. Liquidity Pool Smart Contract Technology. \
@@ -67,16 +71,14 @@ STARV4 features four major technological innovations that substantially increase
    \
    The majority of STARV4s market value comes from the average value of its index combined with STARV4 liquidity pools trading fees and burn fees.\
    \
-   This means STARV4 inherently mitigates pump and dump value movements while generally reducing downside.
-
-\
-\
-STARV4 in the StarSeeds Protocol's treasury is considered locked, and is only unlocked under one of three circumstances:\
-\
-1\. When STARV4 is paired with non-native tokens generated from the StarSeeds Protocol's external treasury and deposited into StarSeeds Protocol owned liquidity pools. \
-\
-2\. When a Liquidity-as-a-Service Proposal is passed, STARV4 is paired with the approved token and deposited into StarSeeds Protocol owned liquidity pools. \
-\
-3\. When StarSeeds Protocol owned concentrated liquidity pools become off-centered towards the side of having too little STARV4, new concentrated liquidity pools with additional STARV4 from the Treasury are created. \
-\
-To summarize, the only time that STARV4 exits the StarSeeds Protocol Treasury is when it is deposited into StarSeeds Protocol owned liquidity pools.&#x20;
+   This means STARV4 inherently mitigates pump and dump value movements while generally reducing downside.\
+   \
+   STARV4 in the StarSeeds Protocol's treasury is considered locked, and is only unlocked under one of three circumstances:\
+   \
+   1\. When STARV4 is paired with non-native tokens generated from the StarSeeds Protocol's external treasury and deposited into StarSeeds Protocol owned liquidity pools. \
+   \
+   2\. When a Liquidity-as-a-Service Proposal is passed, STARV4 is paired with the approved token and deposited into StarSeeds Protocol owned liquidity pools. \
+   \
+   3\. When StarSeeds Protocol owned concentrated liquidity pools become off-centered towards the side of having too little STARV4, new concentrated liquidity pools with additional STARV4 from the Treasury are created. \
+   \
+   To summarize, the only time that STARV4 exits the StarSeeds Protocol Treasury is when it is deposited into StarSeeds Protocol owned liquidity pools.&#x20;
