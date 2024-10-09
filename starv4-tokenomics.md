@@ -23,7 +23,7 @@ layout:
 
 STARV4 is a new kind of cryptocurrency index token that derives it's value from a DAO governed liquidity pool network index of top cryptocurrencies like BTC/ETH/USDC/LINK/MATIC and exceptional small cap tokens with good tokenomics, new technology applications, and many times higher expected upside than downside. Examples: GHST, GEOD, IXT, DIMO, OM.
 
-_**STARV4 features four major technological innovations that substantially increase the value and effectiveness of STARV4 compared to standard index tokens.**_
+STARV4 features four major technological innovations that substantially increase the value and effectiveness of STARV4 compared to standard index tokens.
 
 1. Liquidity Pool Smart Contract Technology. \
    \
@@ -71,7 +71,7 @@ _**STARV4 features four major technological innovations that substantially incre
 
 \
 \
-**STARV4 in the StarSeeds Protocol's treasury is considered locked, and is only unlocked under one of three circumstances.**\
+STARV4 in the StarSeeds Protocol's treasury is considered locked, and is only unlocked under one of three circumstances:\
 \
 1\. When STARV4 is paired with non-native tokens generated from the StarSeeds Protocol's external treasury and deposited into StarSeeds Protocol owned liquidity pools. \
 \
