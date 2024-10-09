@@ -1,12 +1,5 @@
 ---
-cover: >-
-  .gitbook/assets/1692937059681-A futuristic and alien relic floats in the
-  center of the image, deep in outerspace.png
-coverY: 17.375999999999998
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
