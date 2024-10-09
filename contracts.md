@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/Isa Art 9.webp
-coverY: -96
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:

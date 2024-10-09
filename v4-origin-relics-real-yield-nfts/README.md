@@ -1,5 +1,5 @@
 ---
-cover: .gitbook/assets/ISa art 23.jpeg
+cover: ../.gitbook/assets/ISa art 23.jpeg
 coverY: 0
 layout:
   cover:

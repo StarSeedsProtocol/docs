@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/advanced alien badge .png
-coverY: -20
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
