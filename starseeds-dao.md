@@ -41,7 +41,7 @@ The StarSeeds Protocol DAO has a council of expert traders responsible for manag
 
 The council strategically allocates liquidity reserves to various assets and investment opportunities. This includes optimizing trading portfolios, maximizing returns, and minimizing risks through innovative strategies and advanced trading techniques.
 
-Community-Driven Governance
+**Community-Driven Governance:**
 
 StarSeeds Protocol advocates for decentralized governance, with improvement proposals initiated through discussions and feedback from all token holders within the community. These proposals, known as StarSeeds Improvement Proposals (SIPs), are presented and voted on via the StarSeeds Snapshot Portal. **No more than 5% SSG can be added in a single proposal.**
 
