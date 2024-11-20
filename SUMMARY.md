@@ -14,3 +14,4 @@
 * [Whitepaper](https://docs.google.com/document/d/1opcD6f-E25\_c7Wi4OSw0mWG91hihed0H-xCoRNW7Cts/edit?usp=sharing)
 * [Treasury Updates](https://mirror.xyz/starseeds-protocol.eth)
 * [Vote](https://snapshot.org/#/starseeds-dao.eth)
+* [STARV4 Transactions](https://polygonscan.com/token/0x61ffe097137d543f019f5257e1a1ff7a6c5f0b68)
