@@ -11,3 +11,6 @@
 * [Timeline](timeline.md)
 * [Disclaimer](disclaimer.md)
 * [Trade STARV4](https://app.dodoex.io/swap/network/polygon/137-WMATIC/137-0x61fFE097137d543f019F5257E1a1Ff7A6C5F0b68)
+* [Whitepaper](https://docs.google.com/document/d/1opcD6f-E25\_c7Wi4OSw0mWG91hihed0H-xCoRNW7Cts/edit?usp=sharing)
+* [Treasury Updates](https://mirror.xyz/starseeds-protocol.eth)
+* [Vote](https://snapshot.org/#/starseeds-dao.eth)
