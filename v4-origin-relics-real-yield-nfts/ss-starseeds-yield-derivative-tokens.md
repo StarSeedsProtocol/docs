@@ -22,7 +22,8 @@ Rather, SS tokens are tokens automatically deployed in a network of liquidity po
 
 With every swap executed with SS tokens, SS tokens become more valuable compared to the underlying token due to the 0.24% transfer fee on SS tokens reducing their supply combined with permanently compounded StarSeeds Protocol owned liquidity pool swap fees increasing the amount of backing each SS token has. \
 \
-MATIC-SS Contract Address: [0xAba308c24952f70a533474653349a68Bb639FA2A](https://polygonscan.com/token/0xaba308c24952f70a533474653349a68bb639fa2a)\
+MATIC-SS Contract Address: \
+[0xAba308c24952f70a533474653349a68Bb639FA2A](https://polygonscan.com/token/0xaba308c24952f70a533474653349a68bb639fa2a)\
 \
 BTC-SS Contract Address:\
 [0xb7Acf75C942D4fB7BD9DEFb5D67ee92e774f1841](https://polygonscan.com/token/0xb7acf75c942d4fb7bd9defb5d67ee92e774f1841)
