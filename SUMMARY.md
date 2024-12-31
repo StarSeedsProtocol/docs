@@ -20,3 +20,5 @@
   * [QuickSwap V2](liquidity-pools/quickswap-v2.md)
   * [QuickSwap V3 - Built on ALGB 3.5- A Fork of Uniswap V3](liquidity-pools/quickswap-v3-built-on-algb-3.5-a-fork-of-uniswap-v3.md)
   * [Balancer](liquidity-pools/balancer.md)
+  * [DodoX](liquidity-pools/dodox/README.md)
+    * [Private Pools](liquidity-pools/dodox/private-pools.md)
