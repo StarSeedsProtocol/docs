@@ -12,9 +12,9 @@ layout:
     visible: true
 ---
 
-# STARV4 Tokenomics
+# STARV4
 
-STARV4 is a new kind of cryptocurrency index token that derives it's value from a DAO governed liquidity pool network index of top cryptocurrencies like BTC/ETH/USDC/LINK/MATIC and exceptional small cap tokens with good tokenomics, new technology applications, and many times higher expected upside than downside. Examples: GHST, GEOD, IXT, DIMO, OM.
+STARV4 is a new kind of cryptocurrency index token that derives it's value from a DAO governed liquidity pool network index of top cryptocurrencies like BTC/ETH/USDC/LINK/MATIC and exceptional small cap tokens with good tokenomics, new technology applications, and many times higher expected upside than downside. Examples: OM, DIMO,AAVE, UNI.
 
 [STARV4 Address: 0x61fFE097137d543f019F5257E1a1Ff7A6C5F0b68](https://polygonscan.com/token/0x61ffe097137d543f019f5257e1a1ff7a6c5f0b68) (Polygon Network)\
 \

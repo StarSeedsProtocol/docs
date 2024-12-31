@@ -2,7 +2,7 @@
 
 * [Introducing StarSeeds Liquidity Protocol](README.md)
 * [Mission and Vision](mission-and-vision.md)
-* [STARV4 Tokenomics](starv4-tokenomics.md)
+* [STARV4](starv4.md)
 * [V4 Origin Relics: Real Yield NFTs](v4-origin-relics-real-yield-nfts/README.md)
   * [SS- StarSeeds Yield Derivative Tokens](v4-origin-relics-real-yield-nfts/ss-starseeds-yield-derivative-tokens.md)
 * [Contracts](contracts.md)

@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/ezgif.com-optimize (1).gif
-coverY: 59.850666666666655
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
