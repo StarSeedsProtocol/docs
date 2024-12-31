@@ -1,40 +1,6 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
-# STARV4
-
-STARV4 is a cryptocurrency index token that derives it's value from a DAO governed liquidity pool network index of top cryptocurrencies like BTC/ETH/USDC/LINK/MATIC and exceptional small cap tokens with good tokenomics, new technology applications, and many times higher expected upside than downside. Examples: OM, DIMO, AAVE, UNI.
-
-<figure><img src=".gitbook/assets/Screenshot 2024-12-31 at 2.39.11 PM.png" alt=""><figcaption></figcaption></figure>
-
-Since deployment on April 19th at a rate of 1 USDT per, STARV4 has since grown in value by 61% as of Dec 31st.  \
-\
-By comparison, in the same window of time;\
-BTC increased 47%. \
-ETH increased 8%.\
-POL decreased 35%.&#x20;
-
-## &#x20;                       STARV4 - BTC - ETH Comparison Chart
-
-<figure><img src=".gitbook/assets/Screenshot 2024-12-31 at 2.54.52 PM.png" alt=""><figcaption></figcaption></figure>
-
-**STARV4's far-above-average performance since inception transparently reveals the effectiveness of the DeFi strategies that automatically increase STARV4's value over time.** \
-
+# STARV4's Major Technological Innovations
 
 ## STARV4 features four major technologial innovations that substantially increase the value of STARV4 compared to standard tokens.
-
-
 
 1. **Revenue-Optimized Liquidity Pool Smart Contract Technology.** \
    \
@@ -74,18 +40,8 @@ POL decreased 35%.&#x20;
    \
    STARV4 in circulation is backed by an equivalent amount of STARV4 Index tokens. As more STARV4 is purchased, an equivalent amount of Index tokens are placed into liquidity pools.\
    \
-   While STARV4 does increase in value from user purchases, much of the increase in value from purchases is converted into expanding liquidity reserves. Likewise when STARV4 is sold, those same liquidity reserves are emptied. This drastically reduces the volatility of STARV4 related to user buys/sells. Which protects STARV4 holders from large decreases in value from whales exiting the ecosystem.\
+   While STARV4 does increase in value from user purchases, much of the increase in value from purchases is converted into expanding liquidity reserves. Likewise when STARV4 is sold, those same liquidity reserves are emptied. This drastically reduces the volatility of STARV4 related to user buys/sells. Which protects STARV4 holders from large decreases in value from users exiting the STARV4 ecosystem.\
    \
-   The majority of STARV4s market value increase comes from the average value of its index combined with STARV4 liquidity pools trading fees and burn fees.\
+   The majority of STARV4's market value increase comes from the average value of its index combined with STARV4 liquidity pools trading fees and burn fees.\
    \
-   This means STARV4 inherently mitigates pump and dump value movements while also mitigating token holder drawdown (temporary loss).\
-   \
-   STARV4 in the StarSeeds Protocol's treasury is considered locked, and is only unlocked under one of three circumstances:\
-   \
-   1\. When STARV4 is paired with non-native tokens generated from the StarSeeds Protocol's external treasury and deposited into StarSeeds Protocol owned liquidity pools. \
-   \
-   2\. When a Liquidity-as-a-Service Proposal is passed, STARV4 is paired with the approved token and deposited into StarSeeds Protocol owned liquidity pools. \
-   \
-   3\. When StarSeeds Protocol owned concentrated liquidity pools become off-centered towards the side of having too little STARV4, new concentrated liquidity pools with additional STARV4 from the Treasury are created. \
-   \
-   To summarize, the only time that STARV4 exits the StarSeeds Protocol Treasury is when it is deposited into StarSeeds Protocol owned liquidity pools. All user held STARV4 tokens enter circulation only when STARV4 is purchased from a liquidity pool.&#x20;
+   This means STARV4 inherently mitigates pump and dump value movements, while also mitigating token holder drawdown (temporary loss) during bearish market movements.&#x20;
