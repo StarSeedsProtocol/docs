@@ -26,8 +26,7 @@ StarSeeds empowers users with secure, self-custodial tools to optimize returns w
 * Proven DeFi Strategies: Access high-yield, proven and secure strategies without requiring technical expertise.
 * Top Tier Security: DAO-governed wallets, thorough audits, rigorous testing and transaction simulators ensure maximum security.
 * Impact-Focused: A dedicated 3% of tax-on-transfer revenue is allocated to projects fostering measurable positive change.
-
-Regenerative Revenue Model: 100% of liquidity pool fees are compounded into StarSeeds Protocol Native tokens, increasing their value automatically over time.
+* Regenerative Revenue Model: 100% of liquidity pool fees are compounded into StarSeeds Protocol Native tokens, increasing their value automatically over time.
 
 #### Key Features
 
