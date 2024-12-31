@@ -16,3 +16,7 @@
 * [Treasury Updates](https://mirror.xyz/starseeds-protocol.eth)
 * [Vote](https://snapshot.org/#/starseeds-dao.eth)
 * [STARV4 Transactions](https://polygonscan.com/token/0x61ffe097137d543f019f5257e1a1ff7a6c5f0b68)
+* [Liquidity Pools](liquidity-pools/README.md)
+  * [QuickSwap V2](liquidity-pools/quickswap-v2.md)
+  * [QuickSwap V3 - Built on ALGB 3.5- A Fork of Uniswap V3](liquidity-pools/quickswap-v3-built-on-algb-3.5-a-fork-of-uniswap-v3.md)
+  * [Balancer](liquidity-pools/balancer.md)
