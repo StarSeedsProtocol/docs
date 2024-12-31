@@ -2,8 +2,9 @@
 
 ### **Smart Contract Technologies Maintained by the StarSeeds Protocol**&#x20;
 
-1 - STARV4 Index Token\
-STARV4 is a new kind of cryptocurrency index token that derives it's value from a DAO governed liquidity pool network index of top cryptocurrencies like BTC/ETH/USDC/LINK/MATIC and exceptional small cap tokens with good tokenomics, new technology applications, and many times higher expected upside than downside.
+**1 - STARV4 Liquidity Pool Crypto Index Token**\
+\
+STARV4 is a new kind of cryptocurrency index token that derives it's value from a DAO governed liquidity pool held portfolio of top cryptocurrencies like BTC/ETH/USDC/LINK/MATIC and exceptional small cap tokens with good tokenomics, new technology applications, and many times higher expected upside than downside.
 
 **1- Yield Derivative Tokens**&#x20;
 
