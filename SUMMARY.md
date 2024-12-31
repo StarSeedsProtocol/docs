@@ -22,3 +22,5 @@
   * [Balancer](liquidity-pools/balancer.md)
   * [DodoX](liquidity-pools/dodox/README.md)
     * [Private Pools](liquidity-pools/dodox/private-pools.md)
+    * [Pegged Pools](liquidity-pools/dodox/pegged-pools.md)
+    * [Single Sided Pools](liquidity-pools/dodox/single-sided-pools.md)
