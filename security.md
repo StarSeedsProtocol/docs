@@ -29,5 +29,3 @@ StarSeeds Protocol utilizes the most secure contracts globally, which secure bil
 
 Most ERC20 tokens were minted using DodoEX's Token Factory. \
 \
-iBSTARV3 was minted using the TeamFinance token factory. \
-\
