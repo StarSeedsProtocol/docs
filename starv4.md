@@ -14,22 +14,29 @@ layout:
 
 # STARV4
 
-STARV4 is a new kind of cryptocurrency index token that derives it's value from a DAO governed liquidity pool network index of top cryptocurrencies like BTC/ETH/USDC/LINK/MATIC and exceptional small cap tokens with good tokenomics, new technology applications, and many times higher expected upside than downside. Examples: OM, DIMO, AAVE, UNI.
+STARV4 is a cryptocurrency index token that derives it's value from a DAO governed liquidity pool network index of top cryptocurrencies like BTC/ETH/USDC/LINK/MATIC and exceptional small cap tokens with good tokenomics, new technology applications, and many times higher expected upside than downside. Examples: OM, DIMO, AAVE, UNI.
 
 <figure><img src=".gitbook/assets/Screenshot 2024-12-31 at 2.39.11 PM.png" alt=""><figcaption></figcaption></figure>
 
 Since deployment on April 19th at a rate of 1 USDT per, STARV4 has since grown in value by 61% as of Dec 31st.  \
 \
-By Comparison, in the same window of time;\
+By comparison, in the same window of time;\
 BTC increased 47%. \
 ETH increased 8%.\
-POL decreased 35%. \
-\
-STARV4's far-above-average performance since inception proves the effectiveness of the DeFi strategies that automatically increase STARV4's value over time. \
-\
-STARV4 features four major technological innovations that substantially increase the value and effectiveness of STARV4 compared to standard index tokens.
+POL decreased 35%.&#x20;
 
-1. **Liquidity Pool Smart Contract Technology.** \
+## &#x20;                       STARV4 - BTC - ETH Comparison Chart
+
+<figure><img src=".gitbook/assets/Screenshot 2024-12-31 at 2.54.52 PM.png" alt=""><figcaption></figcaption></figure>
+
+**STARV4's far-above-average performance since inception transparently reveals the effectiveness of the DeFi strategies that automatically increase STARV4's value over time.** \
+
+
+## STARV4 features four major technologial innovations that substantially increase the value of STARV4 compared to standard tokens.
+
+
+
+1. **Revenue-Optimized Liquidity Pool Smart Contract Technology.** \
    \
    STARV4 Index tokens such as WBTC/WETH/OM that back the value of STARV4 are held in a diverse network of liquidity pools including Uniswap V2, Balancer V2, DodoX V2, and ALGB V3.5 factory generated contracts.\
    \
@@ -61,7 +68,7 @@ STARV4 features four major technological innovations that substantially increase
 
 4. **Value Appreciation-Optimized Tokenomics**.\
    \
-   STARV4 tokenomics are simple. 25% of STARV4 vested for team over 4 years. The remaining 75% is initially held in the StarSeeds Protocol Multisig. From there STARV4 is paired with other tokens in the STARV4 index and deposited into liquidity pools.\
+   STARV4 tokenomics are simple. 25% of STARV4 vested for team and seed investors over 4 years. The remaining 75% is initially held in the StarSeeds Protocol Multisig. From there STARV4 is paired with other tokens in the STARV4 index and deposited into liquidity pools.\
    \
    STARV4 has not had and will never have a pre-sale, ICO, token generation event, or airdrop. \
    \
