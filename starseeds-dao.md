@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/Isa Art 15 (1).jpeg
-coverY: 28
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -19,19 +14,7 @@ layout:
 
 # StarSeeds DAO
 
-The StarSeeds DAO votes on [snapshot](https://sdao.pro/vote).&#x20;
-
-**SSG - StarSeeds Protocol Governance Token**
-
-SSG Allocation
-
-* **10%** for StarSeeds Protocol.
-* **20%** for the expert trading council.
-* **30%** for early adopter incentives (2-3 years).
-* **50%** of SSG is to be decided by the DAO.
-* Extra SSG is to be vested over 4 years.
-
-Liquidity Reserve Management by StarSeeds DAO
+The StarSeeds DAO votes on [Aragon](https://app.aragon.org/#/daos/polygon/0x81b81cbd54ba217127ff18c2a9a74dc5f09ab392/dashboard) using SSG Tokens.&#x20;
 
 **Council of Expert Traders:**
 

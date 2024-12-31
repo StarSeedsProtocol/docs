@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/Isa Art 6.jpeg
-coverY: 122
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
