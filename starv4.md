@@ -14,11 +14,11 @@ layout:
 
 # STARV4
 
-STARV4 is a new kind of cryptocurrency index token that derives it's value from a DAO governed liquidity pool network index of top cryptocurrencies like BTC/ETH/USDC/LINK/MATIC and exceptional small cap tokens with good tokenomics, new technology applications, and many times higher expected upside than downside. Examples: OM, DIMO,AAVE, UNI.
+STARV4 is a new kind of cryptocurrency index token that derives it's value from a DAO governed liquidity pool network index of top cryptocurrencies like BTC/ETH/USDC/LINK/MATIC and exceptional small cap tokens with good tokenomics, new technology applications, and many times higher expected upside than downside. Examples: OM, DIMO, AAVE, UNI.
 
 [STARV4 Address: 0x61fFE097137d543f019F5257E1a1Ff7A6C5F0b68](https://polygonscan.com/token/0x61ffe097137d543f019f5257e1a1ff7a6c5f0b68) (Polygon Network)\
 \
-[Trade STARV4 here](https://sdao.pro/swap-starv4). Some regions are restricted. Alternatively use any other DEX aggregator on Polygon by inserting the STARV4 Contract address into the swap widget.\
+[Trade STARV4 here](https://sdao.pro/swap-starv4). Adjust slippage to 3%. Some regions are restricted. Alternatively use [Kyber](https://kyberswap.com/swap/polygon/pol-to-0x61ffe097137d543f019f5257e1a1ff7a6c5f0b68) or any other DEX Aggregator on Polygon by inserting the STARV4 Contract address into the swap widget.\
 \
 STARV4 features four major technological innovations that substantially increase the value and effectiveness of STARV4 compared to standard index tokens.
 
