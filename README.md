@@ -1,11 +1,6 @@
 ---
 icon: star
-cover: .gitbook/assets/StarSeeds Command Bridge GIF 5MB.gif
-coverY: 36.73629629629633
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -18,9 +13,15 @@ layout:
     visible: true
 ---
 
-# Introducing the StarSeeds Protocol
+# Introducing StarSeeds Liquidity Protocol
 
-### The StarSeeds Protocol is a DeFi platform that connects users with high-yielding strategies, transforming volatility into revenue through a regenerative system of tax-on-transfer tokens, liquidity pools, and yield-bearing NFTs.
+#### Introduction to StarSeeds Liquidity Protocol
+
+**What is StarSeeds?**
+
+StarSeeds Liquidity Protocol is a decentralized finance (DeFi) platform that **simplifies access to advanced yield-generation strategies**. By leveraging cutting-edge smart contract technologies such as arbitrage-optimized liquidity pools, adaptive tax-on-transfer tokens, and yield-bearing NFTs.\
+\
+StarSeeds empowers users with secure, self-custodial tools to optimize returns while driving meaningful social and environmental change through giving 3% of tax-on-transfer revenue to aligned causes.
 
 ## ★ **STARV4** ★&#x20;
 

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introducing the StarSeeds Protocol](README.md)
+* [Introducing StarSeeds Liquidity Protocol](README.md)
 * [Mission and Vision](mission-and-vision.md)
 * [STARV4 Tokenomics](starv4-tokenomics.md)
 * [V4 Origin Relics: Real Yield NFTs](v4-origin-relics-real-yield-nfts/README.md)
@@ -11,7 +11,7 @@
 * [Timeline](timeline.md)
 * [Disclaimer](disclaimer.md)
 * [Trade STARV4](https://app.dodoex.io/swap/network/polygon/137-WMATIC/137-0x61fFE097137d543f019F5257E1a1Ff7A6C5F0b68)
-* [Whitepaper](https://docs.google.com/document/d/1opcD6f-E25\_c7Wi4OSw0mWG91hihed0H-xCoRNW7Cts/edit?usp=sharing)
+* [Whitepaper](https://docs.google.com/document/d/1opcD6f-E25_c7Wi4OSw0mWG91hihed0H-xCoRNW7Cts/edit?usp=sharing)
 * [Treasury Updates](https://mirror.xyz/starseeds-protocol.eth)
 * [Vote](https://snapshot.org/#/starseeds-dao.eth)
 * [STARV4 Transactions](https://polygonscan.com/token/0x61ffe097137d543f019f5257e1a1ff7a6c5f0b68)
