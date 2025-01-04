@@ -14,11 +14,8 @@ layout:
 
 # Contracts
 
-
-
 ## Token Contracts
 
-\
 STARV4: [0x61fFE097137d543f019F5257E1a1Ff7A6C5F0b68](https://polygonscan.com/token/0x61ffe097137d543f019f5257e1a1ff7a6c5f0b68)\
 STARGOV [0xE79698fa29f757b357201de15A8fF5B5888fa5FB](https://polygonscan.com/address/0xe79698fa29f757b357201de15a8ff5b5888fa5fb)\
 SSG+: [0xE79698fa29f757b357201de15A8fF5B5888fa5FB](https://polygonscan.com/address/0xe79698fa29f757b357201de15a8ff5b5888fa5fb)\
