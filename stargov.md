@@ -2,7 +2,7 @@
 
 STARGOV (SSG) tokens are used to vote in the [StarSeeds Protocol DAO on Aragon](https://app.aragon.org/#/daos/polygon/0x81b81cbd54ba217127ff18c2a9a74dc5f09ab392/dashboard) regarding the management of the StarSeed's Protocol Treasury. \
 \
-STARGOV Contract Address: [0xE79698fa29f757b357201de15A8fF5B5888fa5FB](https://polygonscan.com/address/0xe79698fa29f757b357201de15a8ff5b5888fa5fb)\
+STARGOV Contract Address: [0x6c0E4B7a9cc2a3A570D63061f3e8589B192F5FbD](https://polygonscan.com/token/0x6c0e4b7a9cc2a3a570d63061f3e8589b192f5fbd)\
 \
 SSG tokens can be used to generate a yield by voting in the StarSeeds DAO. Voters are granted retroactive transfers of SSG tokens according to each user's voting weight, the number of proposals voted upon, and the financial outcome of each user's voting choices. \
 \
@@ -16,4 +16,6 @@ SSG tokens are regeneratively backed by StarSeed's Liquidity Protocol, through 3
 
 3\. SSG tokens are 25% backed by SSG+ tokens. SSG+ tokens are a deflationary yield bearing wrapper for SSG tokens with a 3% burn-on-transfer and a 1% tax-on-transfer. SSG+ tokens are backed by a liquidity pool network of pools with STARV4, WBTC, BTC-SS, LINK, LINK-SSS and a small basket of high-upside, extremely volatile meme/gamefi tokens. \
 \
-As SSG+ tokens are automatically traded due to price changes in the tokens backing it, SSG+ tokens are burned at a high rate, which increases their value, and also the value of SSG tokens, due to more and more SSG tokens being bought from circulation to be sold into the SSG-SSG+ liquidity pool.&#x20;
+As SSG+ tokens are automatically traded due to price changes in the tokens backing it, SSG+ tokens are burned at a high rate, which increases their value, and also the value of SSG tokens, due to more and more SSG tokens being bought from circulation to be sold into the SSG-SSG+ liquidity pool. \
+\
+SSG+ Contract Address: [0xE79698fa29f757b357201de15A8fF5B5888fa5FB](https://polygonscan.com/address/0xe79698fa29f757b357201de15a8ff5b5888fa5fb)

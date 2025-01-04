@@ -27,7 +27,7 @@ Origin Relic stakers benefit from the following revenue streams
 As of January 3rd, 2025, Origin Relic Staking provides a vAPR of 91%. The annualized return for  Origin Relic stakers is anticipated to increase over time due to increased Protocol Revenue from increases in the cryptocurrency market and StarSeeds Protocol compounding protocol revenue into protocol owned yield generating liquidity.
 
 * **Origin Relic NFT Contract:** [0x52F3c5b25fce699ea6c742976B42D7905d357FB7](https://polygonscan.com/address/0x52f3c5b25fce699ea6c742976b42d7905d357fb7)
-* **Origin Streaming Contract:** [0x6ae140e3d2ca90c0c1d019be6ac4eeed7142aad8](https://polygonscan.com/address/0x6ae140e3d2ca90c0c1d019be6ac4eeed7142aad8)
+* **Origin Relic Staking Contract:** [0x6ae140e3d2ca90c0c1d019be6ac4eeed7142aad8](https://polygonscan.com/address/0x6ae140e3d2ca90c0c1d019be6ac4eeed7142aad8)
 * **Maximum Supply:** 10,000
 
 [Mint V4 Origin Relics on Heymint. ](https://launchpad.heymint.xyz/mint/v4-origin-relics-by-starseeds-protocol)\

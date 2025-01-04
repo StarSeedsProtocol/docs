@@ -18,6 +18,7 @@
 * [V4 Origin Relics: Real Yield NFTs](v4-origin-relics-real-yield-nfts/README.md)
   * [Mint V4 Origin Relics](https://launchpad.heymint.xyz/mint/v4-origin-relics-by-starseeds-protocol)
   * [Stake V4 Origin Relics](https://app.gysr.io/pool/0x6ae140e3d2ca90c0c1d019be6ac4eeed7142aad8?network=polygon)
+* [STARGOV](stargov.md)
 * [SS - StarSeeds Yield Derivative Tokens](v4-origin-relics-real-yield-nfts/ss-starseeds-yield-derivative-tokens.md)
 * [Contracts](contracts.md)
 * [Security](security.md)
@@ -27,4 +28,3 @@
 * [Protocol Treasury Updates](https://mirror.xyz/starseeds-protocol.eth)
 * [Vote in the StarSeeds DAO](https://app.aragon.org/#/daos/polygon/0x81b81cbd54ba217127ff18c2a9a74dc5f09ab392/dashboard)
 * [StarSeeds Protocol Transfer Fee Vault](https://polygonscan.com/address/0x2F2aE06999a55DF9c098fE688B7052110E1636d7#tokentxns)
-* [STARGOV](stargov.md)
