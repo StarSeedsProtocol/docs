@@ -16,6 +16,8 @@
     * [Pegged Pools](liquidity-pools/dodox/pegged-pools.md)
     * [Single Sided Pools](liquidity-pools/dodox/single-sided-pools.md)
 * [V4 Origin Relics: Real Yield NFTs](v4-origin-relics-real-yield-nfts/README.md)
+  * [Mint V4 Origin Relics](https://launchpad.heymint.xyz/mint/v4-origin-relics-by-starseeds-protocol)
+  * [Stake V4 Origin Relics](https://app.gysr.io/pool/0x6ae140e3d2ca90c0c1d019be6ac4eeed7142aad8?network=polygon)
 * [SS - StarSeeds Yield Derivative Tokens](v4-origin-relics-real-yield-nfts/ss-starseeds-yield-derivative-tokens.md)
 * [Contracts](contracts.md)
 * [Security](security.md)
