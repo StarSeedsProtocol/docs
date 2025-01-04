@@ -20,4 +20,4 @@ The mission of StarSeeds Protocol is to provide easy access to regenerative auto
 
 **Vision**
 
-StarSeeds Protocol envisions a future where decentralized finance is accessible to everyone, offering equal opportunities for wealth creation and financial independence. We strive to set new standards in the industry by continuously innovating. intergrating and adapting to the evolving needs of communities across the world.
+StarSeeds Protocol envisions a future where decentralized finance is accessible to everyone, offering equal opportunities for wealth creation and financial independence. We strive to set new standards in the industry by continuously innovating, intergrating and adapting to the evolving needs of communities across the world.
