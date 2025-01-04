@@ -24,6 +24,7 @@
 * [Security](security.md)
 * [StarSeeds DAO](starseeds-dao.md)
 * [Timeline](timeline.md)
+* [Trade STARV4 - Instructions](trade-starv4-instructions.md)
 * [Protocol Resource Links](protocol-resource-links/README.md)
   * [Current Treasury Accounting](https://docs.google.com/spreadsheets/d/10Z0fdJ_1Fu3nbIJL3MuGNR4aIRtGFGK8V7UEaikWNws/edit?gid=0#gid=0)
   * [Protocol Treasury Updates](https://mirror.xyz/starseeds-protocol.eth)
