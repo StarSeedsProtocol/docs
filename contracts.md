@@ -39,4 +39,6 @@ Tax-on-transfer Fee Processing Gnosis Multisig: [\
 
 ## Liquidity Pool Contracts
 
-SSG/STARV4 Quick V2: [0x205a549b8dc78201df2b55d9565e32495a2b29e6](security.md)\
+SSG / STARV4: Quick V2: [0x205a549b8dc78201df2b55d9565e32495a2b29e6](security.md)\
+SSG+ / STARV4: Quick V2: [0xe720e15f2c70922667815f0f6f6539bdb1f8b1f5](https://quickswap.exchange/#/analytics/v2/pair/0xe720e15f2c70922667815f0f6f6539bdb1f8b1f5)\
+LINK-SSS / STARV4: Quick V2: [0x36c1d7afc43182955768649008d99586da618604](https://quickswap.exchange/#/analytics/v2/pair/0x36c1d7afc43182955768649008d99586da618604)\
