@@ -14,7 +14,11 @@ layout:
 
 # StarSeeds DAO
 
-The StarSeeds DAO votes on [Aragon](https://app.aragon.org/#/daos/polygon/0x81b81cbd54ba217127ff18c2a9a74dc5f09ab392/dashboard) using SSG Tokens.&#x20;
+The StarSeeds DAO votes on [Aragon](https://app.aragon.org/#/daos/polygon/0x81b81cbd54ba217127ff18c2a9a74dc5f09ab392/dashboard) using SSG Tokens. \
+\
+DAO members earn a yield by voting in the StarSeeds DAO. Voters are granted retroactive transfers of SSG tokens according to each user's voting weight, the number of proposals voted upon, and the financial outcome of each user's voting choices. \
+\
+Users that vote for treasury optimization options that perform over average are granted the majority of SSG token yield. Holding more SSG tokens multiplies your vote-yield. A small portion of SSG is granted to all users regardless of how their choices perform.&#x20;
 
 **Council of Expert Traders:**
 

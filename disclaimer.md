@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/Isa Art 14.jpeg
-coverY: 34
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
