@@ -30,4 +30,5 @@
   * [Vote in the StarSeeds DAO](https://app.aragon.org/#/daos/polygon/0x81b81cbd54ba217127ff18c2a9a74dc5f09ab392/dashboard)
   * [StarSeeds Protocol Transfer Fee Vault](https://polygonscan.com/address/0x2F2aE06999a55DF9c098fE688B7052110E1636d7#tokentxns)
   * [STARV4 QuickSwap Analytics](https://quickswap.exchange/#/analytics/total/token/0x61ffe097137d543f019f5257e1a1ff7a6c5f0b68)
+* [Discord](https://discord.gg/pHJXWrYWZD)
 * [Disclaimer](disclaimer.md)
