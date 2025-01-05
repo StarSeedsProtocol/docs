@@ -1,4 +1,4 @@
-# Liquidity Pools
+# Liquidity Pool - Yield Generation
 
 StarSeeds Protocol utilizes advanced Liquidity Pool Factory contracts built on:
 
