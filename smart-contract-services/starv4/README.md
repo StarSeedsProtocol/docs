@@ -12,7 +12,7 @@ layout:
     visible: true
 ---
 
-# STARV4
+# STARV4 - DeFi Index Token
 
 STARV4 is a cryptocurrency index token that derives it's value from a DAO governed liquidity pool network index of top cryptocurrencies like BTC/ETH/USDC/LINK/MATIC and exceptional small cap tokens with good tokenomics, new technology applications, and many times higher expected upside than downside. Examples: OM, DIMO, AAVE, UNI.
 
