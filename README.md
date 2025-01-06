@@ -26,7 +26,7 @@ layout:
 * **Next-Generation DeFi Strategies:** Access high-yield, proven, and secure strategies without requiring technical expertise.
 * **Top Tier Security:** DAO-governed wallets, thorough audits, rigorous testing, and transaction simulators ensure maximum security.
 * **Impact-Focused:** A dedicated 3% of tax-on-transfer revenue is allocated to projects fostering measurable positive change.
-* Regenerative Revenue Model: **100% of liquidity pool fees are compounded into StarSeeds Protocol Na**tive tokens, increasing their value automatically over time.
+* R**egenerative Revenue Model: 100% of liquidity pool fees are compounded into StarSeeds Protocol Na**tive tokens, increasing their value automatically over time.
 
 ## **Key Features**
 
