@@ -1,6 +1,6 @@
 # Smart Contract Services
 
-**Smart Contract Technologies Maintained by the StarSeeds Protocol** &#x20;
+## **Smart Contract Technologies Maintained by the StarSeeds Protocol** &#x20;
 
 1 - STARV4 Liquidity Pool Crypto Index Token
 
