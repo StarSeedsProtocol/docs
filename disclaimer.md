@@ -37,5 +37,3 @@ StarSeeds Protocol does not operate its own decentralized exchange (DEX). Instea
 **Changes to This Disclaimer:**
 
 We reserve the right to amend this disclaimer at any time without prior notice. By using this site, you agree to be bound by the current version of this disclaimer.
-
-\
