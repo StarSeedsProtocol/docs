@@ -14,13 +14,13 @@ layout:
 
 # SS - StarSeeds Yield Derivative Tokens
 
-Similar to stMATIC and wstETH, SS tokens are pegged to the value of original token in such a way that makes each unit of S-token worth more then the original token over time.
+Similar to stMATIC and wstETH, SS tokens are pegged to the value of original token in such a way that makes each unit of S-token worth more than the original token over time.
 
-Unlike other yield bearing tokens, SS tokens do not represent MATIC/ETH that has been staked to increase the security of the Polygon Network. \
+Unlike other yield-bearing tokens, SS tokens do not represent MATIC/ETH that has been staked to increase the security of the Polygon Network. \
 \
 Rather, SS tokens are tokens automatically deployed in a network of liquidity pools that facilitate automated arbitrage trades in such a way that creates regular and growing trade volume.
 
-With every swap executed with SS tokens, SS tokens become more valuable compared to the underlying token due to the 0.24% transfer fee on SS tokens reducing their supply combined with permanently compounded StarSeeds Protocol owned liquidity pool swap fees increasing the amount of backing each SS token has. \
+With every swap executed with SS tokens, SS tokens become more valuable compared to the underlying token due to the 0.24% transfer fee on SS tokens reducing their supply combined with permanently compounded StarSeeds Protocol-owned liquidity pool swap fees increasing the amount of backing each SS token has. \
 \
 MATIC-SS Contract Address: \
 [0xAba308c24952f70a533474653349a68Bb639FA2A](https://polygonscan.com/token/0xaba308c24952f70a533474653349a68bb639fa2a)\
