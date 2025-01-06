@@ -10,7 +10,7 @@ Uniswap V2 is a cornerstone in the decentralized exchange (DEX) ecosystem, intro
 
 Technology Overview:
 
-* Model: Uniswap V2 contracts operates on the Constant Product Market Maker formula ( x \* y = k, where ( x ) and ( y ) are the reserve quantities of two tokens, and ( k ) is a constant ensuring liquidity across all price levels.
+* Model: Uniswap V2 contracts operate on the Constant Product Market Maker formula ( x \* y = k) where ( x ) and ( y ) are the reserve quantities of two tokens, and ( k ) is a constant ensuring liquidity across all price levels.
 
 Liquidity Provision:
 
