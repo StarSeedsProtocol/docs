@@ -30,6 +30,6 @@ Traditional AMMs, such as Uniswap's constant product formula (x \* y = k), maint
 * Reduced Impermanent Loss: By aligning pool prices more closely with external markets, the PMM minimizes the divergence between pool prices and market prices, thereby reducing impermanent loss for liquidity providers.
 * Single-Sided Liquidity Provision: Liquidity providers can supply a single asset to a pool, simplifying the process and lowering the barrier to entry.
 
-These innovations make DODO's PMM algorithm a flexible and efficient alternative to traditional AMMs, offering improved trading experiences and better capital utilization for liquidity providers
+These innovations make DODO's PMM algorithm a flexible and efficient alternative to traditional AMMs, offering improved trading experiences and better capital utilization for liquidity providers.
 
 \
