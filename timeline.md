@@ -1,10 +1,5 @@
 ---
-cover: .gitbook/assets/Isa Art 24.jpeg
-coverY: -3
 layout:
-  cover:
-    visible: true
-    size: hero
   title:
     visible: true
   description:
@@ -23,7 +18,7 @@ layout:
 
 StarSeeds Protocol is developing numerous upgrades to increase protocol revenue and the value of STARV4, including:
 
-1. **Bridge STARV4 to More Chains:**
+1. **Bridge STARV4 to Additional Chains:**
    * Expand STARV4's presence to more blockchain networks to increase accessibility and liquidity.
 2. **Add StarSeeds Owned Arbitrage Bots with Gains Compounded into STARV4:**
    * Deploy arbitrage bots to capitalize on price discrepancies across exchanges, with profits reinvested into STARV4. This will enhance liquidity and trading volume, benefiting STARV4 holders.
