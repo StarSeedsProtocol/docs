@@ -20,7 +20,7 @@
     * [Stake V4 Origin Relics](https://app.gysr.io/pool/0x6ae140e3d2ca90c0c1d019be6ac4eeed7142aad8?network=polygon)
   * [SSG - Vote-Yielding Gov Token](smart-contract-services/ssg-vote-yielding-gov-token.md)
   * [SS - StarSeeds Yield Derivative Tokens](smart-contract-services/ss-starseeds-yield-derivative-tokens.md)
-* [Contracts](contracts.md)
+* [Smart Contracts](smart-contracts.md)
 * [Security](security.md)
 * [StarSeeds DAO](starseeds-dao.md)
 * [Timeline](timeline.md)
