@@ -50,27 +50,29 @@ GHST-SS: [0x2059fe4b81751878A24515B404A2d6Ea12b2aC92](https://polygonscan.com/to
 
 ## Liquidity Pool Contracts
 
-SSG / STARV4: Quick V2: [0x205a549b8dc78201df2b55d9565e32495a2b29e6](https://polygonscan.com/address/0x205a549b8dc78201df2b55d9565e32495a2b29e6#tokentxns)\
-SSG+ / STARV4: Quick V2: [0xe720e15f2c70922667815f0f6f6539bdb1f8b1f5](https://polygonscan.com/address/0xe720e15f2c70922667815f0f6f6539bdb1f8b1f5#tokentxns)\
-LINK-SSS / STARV4: Quick V2: [0x36c1d7afc43182955768649008d99586da618604](https://polygonscan.com/address/0x36c1d7afc43182955768649008d99586da618604#tokentxns)\
-BTC-SS / STARV4: Quick V2: [0xa0E36F9F7eC0B00851dD25053ceeA0517a692A51](https://polygonscan.com/address/0x3346b30c4abd39f9a654f4d5a7d0bcaa12151574#tokentxns)\
-ETH-SS / STARV4: Quick V2: [0x0B1cCbA98Ea1c282cE3280571400e25c1e4f8A9b](https://polygonscan.com/address/0x0b1ccba98ea1c282ce3280571400e25c1e4f8a9b#tokentxns)\
-USDT / STARV4: Quick V2: [0x00bC6931e9224aAC6A31E6048cc2F8b55b208F9D](https://polygonscan.com/address/0x00bc6931e9224aac6a31e6048cc2f8b55b208f9d#tokentxns)\
-LINK / STARV4: Quick V2: [0x949929c899fba827e12e59e7b34310197666a175](https://polygonscan.com/address/0x949929c899fba827e12e59e7b34310197666a175#tokentxns)\
-WPOL / STARV4: Quick V2: [0xbbf0B0cddD0239cf7529C5654ae1D1B6Cb672789](https://polygonscan.com/address/0xbbf0b0cddd0239cf7529c5654ae1d1b6cb672789#tokentxns)\
-WETH / STARV4: Quick V2: [0x14e75baa300ea7be3a115132aec7bacf7e388568](https://polygonscan.com/address/0x14e75baa300ea7be3a115132aec7bacf7e388568#tokentxns)\
-SuperSTAR / STARV4: Quick V2: [0xD8E58CE7c5c1431aA7ea9041c6682e930E1E7019](https://polygonscan.com/address/0xd8e58ce7c5c1431aa7ea9041c6682e930e1e7019#tokentxns)\
-UNI / STARV4: Quick V2: [0xfe4642097f9ea5cc1e3b51175d18cdcffe857b73](https://polygonscan.com/address/0xfe4642097f9ea5cc1e3b51175d18cdcffe857b73#tokentxns)\
-OM / STARV4: Quick V2: [0xF98590AE71A8BADCaF98E16a3a9123a50cd4Cd6e](https://polygonscan.com/address/0xf98590ae71a8badcaf98e16a3a9123a50cd4cd6e)\
-AAVE / STARV4: Quick V2: [0x26e2D34470584Cc8224d6ac2B61DB0eebD17073E](https://polygonscan.com/address/0x26e2d34470584cc8224d6ac2b61db0eebd17073e)\
-GHST / STARV4: Quick V2: [0xaf50f518bbe03f7638b633839fff48836a553b17](https://polygonscan.com/address/0xaf50f518bbe03f7638b633839fff48836a553b17)\
-DIMO / STARV4: Quick V2: [0x0d4fabb843e244d3ceee46418fff3dfebf75ffe5](https://polygonscan.com/address/0x0d4fabb843e244d3ceee46418fff3dfebf75ffe5)\
-GEOD / STARV4: Quick V2: [0x4635f5e1c1bd4d5ee6fd88e2e20ebf4caaaee78a](https://polygonscan.com/address/0x4635f5e1c1bd4d5ee6fd88e2e20ebf4caaaee78a)\
-DODO / STARV4: Quick V2: [0x77b2f6693372402ee9a627998f1de5c33dc213d2](https://polygonscan.com/address/0x77b2f6693372402ee9a627998f1de5c33dc213d2#tokentxns)\
-RENDER / STARV4: Quick V2: [0x464f2f8bfc53d0681b469b7fbdfeddb7e2959efb](https://polygonscan.com/address/0x464f2f8bfc53d0681b469b7fbdfeddb7e2959efb#tokentxns)\
-GRT / STARV4: Quick V2: [0x08c21e50f1cac1c6de663e9defb58e62d46795ff](https://polygonscan.com/address/0x08c21e50f1cac1c6de663e9defb58e62d46795ff#tokentxns)\
-WBTC / STARV4: Dodo Private: [0x08C21e50F1CAC1c6dE663e9DEfB58e62D46795FF](https://polygonscan.com/address/0x41dc7c0fe6e77b65144ba9355f17e8dfcc2e58a8#tokentxns)\
-LINK / STARV4: Dodo Pegged: [0xC3a09Ed55592236A9b4D2970e7782116b318C4eA](https://polygonscan.com/address/0xc3a09ed55592236a9b4d2970e7782116b318c4ea#tokentxns)\
-WBTC / STARV4: Dodo Pegged: [0xa5cb061bec868e93a7c925d84a9b06b3204f7bce](https://polygonscan.com/address/0xa5cb061bec868e93a7c925d84a9b06b3204f7bce#tokentxns)\
-SS / STARV4: Balancer V2 Vortex: [0x8b46cb990b117dea9ba918f5ba5f6ba01a4bf556](https://balancer.fi/pools/polygon/v2/0x8b46cb990b117dea9ba918f5ba5f6ba01a4bf556000100000000000000000ef2)\
+SSG / STARV4 - Quick V2: [0x205a549b8dc78201df2b55d9565e32495a2b29e6](https://polygonscan.com/address/0x205a549b8dc78201df2b55d9565e32495a2b29e6#tokentxns)\
+SSG+ / STARV4 -  Quick V2: [0xe720e15f2c70922667815f0f6f6539bdb1f8b1f5](https://polygonscan.com/address/0xe720e15f2c70922667815f0f6f6539bdb1f8b1f5#tokentxns)\
+LINK-SSS / STARV4 - Quick V2: [0x36c1d7afc43182955768649008d99586da618604](https://polygonscan.com/address/0x36c1d7afc43182955768649008d99586da618604#tokentxns)\
+BTC-SS / STARV4: - Quick V2: [0xa0E36F9F7eC0B00851dD25053ceeA0517a692A51](https://polygonscan.com/address/0x3346b30c4abd39f9a654f4d5a7d0bcaa12151574#tokentxns)\
+ETH-SS / STARV4 - Quick V2: [0x0B1cCbA98Ea1c282cE3280571400e25c1e4f8A9b](https://polygonscan.com/address/0x0b1ccba98ea1c282ce3280571400e25c1e4f8a9b#tokentxns)\
+USDT / STARV4: - Quick V2: [0x00bC6931e9224aAC6A31E6048cc2F8b55b208F9D](https://polygonscan.com/address/0x00bc6931e9224aac6a31e6048cc2f8b55b208f9d#tokentxns)\
+LINK / STARV4 - Quick V2: [0x949929c899fba827e12e59e7b34310197666a175](https://polygonscan.com/address/0x949929c899fba827e12e59e7b34310197666a175#tokentxns)\
+WPOL / STARV4 - Quick V2: [0xbbf0B0cddD0239cf7529C5654ae1D1B6Cb672789](https://polygonscan.com/address/0xbbf0b0cddd0239cf7529c5654ae1d1b6cb672789#tokentxns)\
+WETH / STARV4 - Quick V2: [0x14e75baa300ea7be3a115132aec7bacf7e388568](https://polygonscan.com/address/0x14e75baa300ea7be3a115132aec7bacf7e388568#tokentxns)\
+SuperSTAR / STARV4 - Quick V2: [0xD8E58CE7c5c1431aA7ea9041c6682e930E1E7019](https://polygonscan.com/address/0xd8e58ce7c5c1431aa7ea9041c6682e930e1e7019#tokentxns)\
+UNI / STARV4 - Quick V2: [0xfe4642097f9ea5cc1e3b51175d18cdcffe857b73](https://polygonscan.com/address/0xfe4642097f9ea5cc1e3b51175d18cdcffe857b73#tokentxns)\
+OM / STARV4 - Quick V2: [0xF98590AE71A8BADCaF98E16a3a9123a50cd4Cd6e](https://polygonscan.com/address/0xf98590ae71a8badcaf98e16a3a9123a50cd4cd6e)\
+AAVE / STARV4 - Quick V2: [0x26e2D34470584Cc8224d6ac2B61DB0eebD17073E](https://polygonscan.com/address/0x26e2d34470584cc8224d6ac2b61db0eebd17073e)\
+GHST / STARV4 - Quick V2: [0xaf50f518bbe03f7638b633839fff48836a553b17](https://polygonscan.com/address/0xaf50f518bbe03f7638b633839fff48836a553b17)\
+DIMO / STARV4 - Quick V2: [0x0d4fabb843e244d3ceee46418fff3dfebf75ffe5](https://polygonscan.com/address/0x0d4fabb843e244d3ceee46418fff3dfebf75ffe5)\
+GEOD / STARV4 - Quick V2: [0x4635f5e1c1bd4d5ee6fd88e2e20ebf4caaaee78a](https://polygonscan.com/address/0x4635f5e1c1bd4d5ee6fd88e2e20ebf4caaaee78a)\
+DODO / STARV4 - Quick V2: [0x77b2f6693372402ee9a627998f1de5c33dc213d2](https://polygonscan.com/address/0x77b2f6693372402ee9a627998f1de5c33dc213d2#tokentxns)\
+RENDER / STARV4 - Quick V2: [0x464f2f8bfc53d0681b469b7fbdfeddb7e2959efb](https://polygonscan.com/address/0x464f2f8bfc53d0681b469b7fbdfeddb7e2959efb#tokentxns)\
+GRT / STARV4 - Quick V2: [0x08c21e50f1cac1c6de663e9defb58e62d46795ff](https://polygonscan.com/address/0x08c21e50f1cac1c6de663e9defb58e62d46795ff#tokentxns)\
+WBTC / STARV4 - Dodo Private: [0x08C21e50F1CAC1c6dE663e9DEfB58e62D46795FF](https://polygonscan.com/address/0x41dc7c0fe6e77b65144ba9355f17e8dfcc2e58a8#tokentxns)\
+LINK / STARV4 - Dodo Pegged: [0xC3a09Ed55592236A9b4D2970e7782116b318C4eA](https://polygonscan.com/address/0xc3a09ed55592236a9b4d2970e7782116b318c4ea#tokentxns)\
+WBTC / STARV4 - Dodo Pegged: [0xa5cb061bec868e93a7c925d84a9b06b3204f7bce](https://polygonscan.com/address/0xa5cb061bec868e93a7c925d84a9b06b3204f7bce#tokentxns)\
+SS / STARV4 - Balancer V2 Vortex: [0x8b46cb990b117dea9ba918f5ba5f6ba01a4bf556](https://balancer.fi/pools/polygon/v2/0x8b46cb990b117dea9ba918f5ba5f6ba01a4bf556000100000000000000000ef2)\
+[WPOL / SSG -  Quick V2](https://quickswap.exchange/#/analytics/v2/pair/0x8ee8fbeb0e3d85dabbed264c5043ae0675033c70): [0x8ee8fbeb0e3d85dabbed264c5043ae0675033c70](https://polygonscan.com/address/0x8ee8fbeb0e3d85dabbed264c5043ae0675033c70#tokentxns)\
+[LINK / SSG - Quick V2](https://quickswap.exchange/#/analytics/v2/pair/0x806dbbe56e5142f1ce5c7fc568eba36af896aa54): [0x806dbbe56e5142f1ce5c7fc568eba36af896aa54](https://polygonscan.com/address/0x806dbbe56e5142f1ce5c7fc568eba36af896aa54#tokentxns)\
 \
