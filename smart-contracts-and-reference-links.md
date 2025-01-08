@@ -15,7 +15,7 @@ layout:
     visible: true
 ---
 
-# Smart Contracts
+# Smart Contracts & Reference Links
 
 ## Polygon Contracts
 
@@ -44,9 +44,9 @@ GHST-SS: [0x2059fe4b81751878A24515B404A2d6Ea12b2aC92](https://polygonscan.com/to
 ## DAO Multisig & Treasury Contracts
 
 [StarSeeds DAO (Aragon)](https://app.aragon.org/#/daos/polygon/0x81b81cbd54ba217127ff18c2a9a74dc5f09ab392/dashboard): [0x81b81cbd54ba217127ff18c2a9a74dc5f09ab392](https://polygonscan.com/address/0x81b81cbd54ba217127ff18c2a9a74dc5f09ab392)\
-[StarSeeds Expert Trading Council Gnosis Multisig](https://app.safe.global/balances?safe=matic:0xBDCBD23316AAA2aDecA774e107868adCE38cC69E): [0xBDCBD23316AAA2aDecA774e107868adCE38cC69E](smart-contracts.md)\
+[StarSeeds Expert Trading Council Gnosis Multisig](https://app.safe.global/balances?safe=matic:0xBDCBD23316AAA2aDecA774e107868adCE38cC69E): [0xBDCBD23316AAA2aDecA774e107868adCE38cC69E](smart-contracts-and-reference-links.md)\
 [Tax-on-Transfer Fee Processing Gnosis Multisig](https://app.safe.global/balances?safe=matic:0x2F2aE06999a55DF9c098fE688B7052110E1636d7): [\
-0x2F2aE06999a55DF9c098fE688B7052110E1636d7](smart-contracts.md)
+0x2F2aE06999a55DF9c098fE688B7052110E1636d7](smart-contracts-and-reference-links.md)
 
 ## Liquidity Pool Contracts
 
