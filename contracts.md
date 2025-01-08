@@ -1,8 +1,7 @@
 ---
 description: >-
-  Click on Contract Title to go to the front-end for that contract. Click on the
-  contract ID number to go to the polygonscan contract back-end page for that
-  contract.
+  Click on the contract title to go to the front-end or the contract ID number
+  to go to the polygonscan contract back-end page for each contract.
 layout:
   title:
     visible: true
