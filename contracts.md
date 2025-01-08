@@ -1,4 +1,8 @@
 ---
+description: >-
+  Click on Contract Title to go to the front-end for that contract. Click on the
+  contract ID number to go to the polygonscan contract back-end page for that
+  contract.
 layout:
   title:
     visible: true
@@ -14,9 +18,11 @@ layout:
 
 # Contracts
 
-## Token Contracts
+## Polygon Contracts
 
-STARV4: [0x61fFE097137d543f019F5257E1a1Ff7A6C5F0b68](https://polygonscan.com/token/0x61ffe097137d543f019f5257e1a1ff7a6c5f0b68)\
+## StarSeeds Protocol Native Token Contracts
+
+[STARV4](https://coinmarketcap.com/dexscan/polygon/0x949929c899fba827e12e59e7b34310197666a175/): [0x61fFE097137d543f019F5257E1a1Ff7A6C5F0b68](https://polygonscan.com/token/0x61ffe097137d543f019f5257e1a1ff7a6c5f0b68)\
 STARGOV [0xE79698fa29f757b357201de15A8fF5B5888fa5FB](https://polygonscan.com/address/0xe79698fa29f757b357201de15a8ff5b5888fa5fb)\
 SSG+: [0xE79698fa29f757b357201de15A8fF5B5888fa5FB](https://polygonscan.com/address/0xe79698fa29f757b357201de15a8ff5b5888fa5fb)\
 MATIC-SS: [0xAba308c24952f70a533474653349a68Bb639FA2A](https://polygonscan.com/token/0xaba308c24952f70a533474653349a68bb639fa2a)\
@@ -25,16 +31,22 @@ USD-SS: [0x4b0dF7EDe79be6b046a4Ed71580A3733A109e641](https://polygonscan.com/tok
 ETH-SS: [0xC8fc7E7E7B4D94FA02751B8719F5BbBb4C1413Cf](https://polygonscan.com/token/0xc8fc7e7e7b4d94fa02751b8719f5bbbb4c1413cf/)\
 GHST-SS: [0x2059fe4b81751878A24515B404A2d6Ea12b2aC92](https://polygonscan.com/token/0x2059fe4b81751878a24515b404a2d6ea12b2ac92)
 
+### STARV4 Non-Native Index Token Contracts
+
+[WBTC](https://coinmarketcap.com/currencies/wrapped-bitcoin/): [0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6](https://polygonscan.com/token/0x1bfd67037b42cf73acf2047067bd4f2c47d9bfd6)\
+[WETH](https://coinmarketcap.com/currencies/weth/): [0x7ceb23fd6bc0add59e62ac25578270cff1b9f619](https://polygonscan.com/token/0x7ceb23fd6bc0add59e62ac25578270cff1b9f619)\
+[USDT](smart-contract-services/v4-origin-relics-real-yield-nfts/): [0xc2132d05d31c914a87c6611c10748aeb04b58e8f](https://polygonscan.com/token/0xc2132d05d31c914a87c6611c10748aeb04b58e8f)
+
 ## Real Yield NFT Contracts
 
-V4 **Origin Relic NFT Contract:** [0x52F3c5b25fce699ea6c742976B42D7905d357FB7](https://polygonscan.com/address/0x52f3c5b25fce699ea6c742976b42d7905d357fb7)\
-V4 **Origin Streaming Contract:** [0x6ae140e3d2ca90c0c1d019be6ac4eeed7142aad8](https://polygonscan.com/address/0x6ae140e3d2ca90c0c1d019be6ac4eeed7142aad8)
+[V4 **Origin Relic NFT Contract**](https://launchpad.heymint.xyz/mint/v4-origin-relics-by-starseeds-protocol)**:** [0x52F3c5b25fce699ea6c742976B42D7905d357FB7](https://polygonscan.com/address/0x52f3c5b25fce699ea6c742976b42d7905d357fb7)\
+[V4 **Origin Relic Gysr Staking Contract:**](https://app.gysr.io/pool/0x6ae140e3d2ca90c0c1d019be6ac4eeed7142aad8?network=polygon) [0x6ae140e3d2ca90c0c1d019be6ac4eeed7142aad8](https://polygonscan.com/address/0x6ae140e3d2ca90c0c1d019be6ac4eeed7142aad8)
 
 ## DAO Multisig & Treasury Contracts
 
-StarSeeds DAO (Aragon): [0x81b81cbd54ba217127ff18c2a9a74dc5f09ab392](https://polygonscan.com/address/0x81b81cbd54ba217127ff18c2a9a74dc5f09ab392)\
-StarSeeds Expert Trading Council Gnosis Multisig: [0xBDCBD23316AAA2aDecA774e107868adCE38cC69E](contracts.md)\
-Tax-on-Transfer Fee Processing Gnosis Multisig: [\
+[StarSeeds DAO (Aragon)](https://app.aragon.org/#/daos/polygon/0x81b81cbd54ba217127ff18c2a9a74dc5f09ab392/dashboard): [0x81b81cbd54ba217127ff18c2a9a74dc5f09ab392](https://polygonscan.com/address/0x81b81cbd54ba217127ff18c2a9a74dc5f09ab392)\
+[StarSeeds Expert Trading Council Gnosis Multisig](https://app.safe.global/balances?safe=matic:0xBDCBD23316AAA2aDecA774e107868adCE38cC69E): [0xBDCBD23316AAA2aDecA774e107868adCE38cC69E](contracts.md)\
+[Tax-on-Transfer Fee Processing Gnosis Multisig](https://app.safe.global/balances?safe=matic:0x2F2aE06999a55DF9c098fE688B7052110E1636d7): [\
 0x2F2aE06999a55DF9c098fE688B7052110E1636d7](contracts.md)
 
 ## Liquidity Pool Contracts
