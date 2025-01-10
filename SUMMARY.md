@@ -2,6 +2,7 @@
 
 * [Introducing StarSeeds Liquidity Protocol](README.md)
 * [Mission and Vision](mission-and-vision.md)
+* [What is a Liquidity Pool?](what-is-a-liquidity-pool.md)
 * [Smart Contract Services](smart-contract-services/README.md)
   * [STARV4 - DeFi Index Token](smart-contract-services/starv4/README.md)
     * [STARV4's Major Technological Innovations](smart-contract-services/starv4/starv4s-major-technological-innovations.md)
