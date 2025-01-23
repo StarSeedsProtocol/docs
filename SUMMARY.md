@@ -34,3 +34,4 @@
 * [Discord](https://discord.gg/pHJXWrYWZD)
 * [Disclaimer](disclaimer.md)
 * [Swap STARV4](https://www.sushi.com/polygon/swap?token0=NATIVE\&token1=0x61fFE097137d543f019F5257E1a1Ff7A6C5F0b68)
+* [Treasury](treasury.md)
