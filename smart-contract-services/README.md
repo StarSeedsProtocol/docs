@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Smart Contract Services
 
 ## **Smart Contract Technologies Maintained by the StarSeeds Protocol** &#x20;

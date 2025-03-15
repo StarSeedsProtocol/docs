@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Balancer
 
 Balancer is a decentralized automated market maker (AMM) that allows users to create liquidity pools with custom token weights. It generalizes the constant product formula used in many AMMs, enabling more flexible configurations such as multi-token pools and uneven weight distributions.\

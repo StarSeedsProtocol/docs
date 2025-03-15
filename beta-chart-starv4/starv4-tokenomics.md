@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # STARV4 Tokenomics
 
 ## 25% of STARV4's Max Supply was initially vested in a 4 year linear contract which distributes to StarSeeds Protocol's founding team and seed investors. &#x20;

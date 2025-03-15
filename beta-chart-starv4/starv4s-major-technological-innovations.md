@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # STARV4's Major Technological Innovations
 
 ## STARV4 features four major technologial innovations that substantially increase the value of STARV4 compared to standard tokens.
