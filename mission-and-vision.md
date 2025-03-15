@@ -14,7 +14,7 @@ layout:
 
 # Mission and Vision
 
-## Mission
+Mission
 
 The mission of StarSeeds Protocol is to provide easy access to regenerative automated revenue streams for individual token holders and tokenized projects. We support community-owned initiatives by providing tools and resources that enable communities to raise funds, govern themselves, and create a sustainable impact.
 
