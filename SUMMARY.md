@@ -2,8 +2,8 @@
 
 * [StarSeeds Protocol Soon to be Astral Protocol](README.md)
 * [Why Rebrand to Astral Protocol](why-rebrand-to-astral-protocol.md)
-* [Mission ](mission.md)
-* [Integrated Protocols](integrated-protocols.md)
+* [Mission ](mission-and-vision.md)
+* [Integrated Protocols](supported-protocols-and-pools.md)
 * [Product- DK the AI DeFi Trader](product-dk-the-ai-defi-trader.md)
 * [STARV5 Smart Contract](starv5-smart-contract.md)
 * [StarSeeds DAO](starseeds-dao.md)

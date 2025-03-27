@@ -1,5 +1,9 @@
 # Product- DK the AI DeFi Trader
 
+**DK the AI DeFi Trader** \
+\
+**Token Contract-** 0x7Ed7ff3e6E66e40B9EE19F376eB4DF89237ad210
+
 **DK the AI DeFi Trader** is a bot deployed by the StarSeeds Liquidity Protocol via the IQ-AI platform. It has several decentralized financial functions that increase the value of DKDEFI tokens automatically over time:
 
 1. Omnichain arbitrage trading using IQ's "Brain" AI framework, flash loans, and loss-prevention batch swaps. DK has a unique burn-fee exemption for STARV5, giving it a competitive edge. 30% of arbitrage revenue is used to buy and burn DKDEFI tokens.
