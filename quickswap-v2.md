@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # QuickSwap V2
 
 #### QuickSwap V2
