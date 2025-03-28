@@ -15,7 +15,8 @@ StarSeeds Protocol has integrated with IQ AI due to its innovative capabilities:
 
 StarSeeds Protocol has successfully launched two agents on IQ AI:
 
-1. **IQYIELD**: A liquid alternative to IQ staking with automated reward systems.
+1. **IQYIELD**: A liquid alternative to IQ staking with automated reward systems.\
+   [Learn more about IQYIELD](https://mirror.xyz/starseeds-protocol.eth/F0W48hAnA_fqmR_RcxH4cVk9weKh-Ghs4QzNIrJHTEU)&#x20;
 2. **DK the AI DeFi Trader**: An arbitrage trading bot utilizing advanced financial strategies. [Link to DK Agent](https://app.iqai.com/agents/0x7Ed7ff3e6E66e40B9EE19F376eB4DF89237ad210)
 
 \
