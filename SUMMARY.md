@@ -10,7 +10,7 @@
   * [IQYIELD- IK the "Rapper" Liquid Yield Token](defi-memes-memes-with-functionality/iqyield-ik-the-rapper-liquid-yield-token/README.md)
     * [IQYIELD Documentation](https://mirror.xyz/starseeds-protocol.eth/F0W48hAnA_fqmR_RcxH4cVk9weKh-Ghs4QzNIrJHTEU)
 * [STARV5 Smart Contract](starv5-smart-contract.md)
-* [Astral Token DAO- Aragon](astral-token-dao-aragon.md)
+* [Astral Token DAO- Aragon](starseeds-dao.md)
 * [Discord](https://discord.gg/pHJXWrYWZD)
 * [Security](security.md)
 * [Glossary Terms](glossary-terms.md)

@@ -43,5 +43,6 @@ Token holders can participate in governance by:
 * Delegating voting power to other addresses
 
 To engage with the Astral Token DAO, visit the official Aragon dashboard:\
+\
 [https://app.aragon.org/dao/polygon-mainnet-0x3f12aB6b178934c7939d294C31C5Dad9feAc0ea1/dashboard](https://app.aragon.org/dao/polygon-mainnet-0x3f12aB6b178934c7939d294C31C5Dad9feAc0ea1/dashboard)\
 \
