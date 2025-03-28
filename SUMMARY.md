@@ -9,6 +9,7 @@
   * [DKDEFI Documentation ](https://mirror.xyz/starseeds-protocol.eth/aY_HN7CLDgA9oHfXbKRnSludqYrpKNn6XwqYPFjtSGE)
   * [IQYIELD- IK the "Rapper" Liquid Yield Token](defi-memes-memes-with-functionality/iqyield-ik-the-rapper-liquid-yield-token.md)
   * [IQYIELD Documentation](https://mirror.xyz/starseeds-protocol.eth/F0W48hAnA_fqmR_RcxH4cVk9weKh-Ghs4QzNIrJHTEU)
+  * [Overview of IQ AI](defi-memes-memes-with-functionality/overview-of-iq-ai.md)
 * [STARV5 Smart Contract](starv5-smart-contract.md)
 * [Astral Token DAO- Aragon](starseeds-dao.md)
 * [Discord](https://discord.gg/pHJXWrYWZD)
