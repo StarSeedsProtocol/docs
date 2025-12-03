@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # DeFi Memes- Memes with Functionality
 
 ### DeFi Memes: Memes with Functionality

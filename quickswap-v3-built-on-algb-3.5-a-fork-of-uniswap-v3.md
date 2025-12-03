@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # QuickSwap V3 - Built on ALGB 3.5- A Fork of Uniswap V3
 
 Algebra 3.5 adds Tax-On-Transfer token compatibility along with real-time volume-based dynamic swap fee functionality to Uniswap V3 concentrated liquidity.

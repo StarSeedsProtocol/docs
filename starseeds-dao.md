@@ -1,15 +1,5 @@
 ---
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+hidden: true
 ---
 
 # Astral Token DAO- Aragon
@@ -45,4 +35,4 @@ Token holders can participate in governance by:
 To engage with the Astral Token DAO, visit the official Aragon dashboard:\
 \
 [https://app.aragon.org/dao/polygon-mainnet-0x3f12aB6b178934c7939d294C31C5Dad9feAc0ea1/dashboard](https://app.aragon.org/dao/polygon-mainnet-0x3f12aB6b178934c7939d294C31C5Dad9feAc0ea1/dashboard)\
-\
+<br>

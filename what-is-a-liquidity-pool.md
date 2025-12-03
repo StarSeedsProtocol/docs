@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # What is a Liquidity Pool?
 
 ***

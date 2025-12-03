@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Why Rebrand to Astral Protocol
 
 ### **Why the Rebrand to Astral Protocol?**

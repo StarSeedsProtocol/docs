@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Integrated Protocols
 
 **Integrated Protocols: StarSeeds Protocol leverages and integrates with multiple leading DeFi protocols to enhance its functionality and liquidity depth:**

@@ -1,15 +1,5 @@
 ---
-layout:
-  title:
-    visible: true
-  description:
-    visible: false
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
+hidden: true
 ---
 
 # StarSeeds Protocol Soon to be Astral Protocol

@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # DodoX
 
 StarSeeds Protocol utilizes DODO's Proactive Market Maker (PMM) algorithm to manage its liquidity pools, specifically employing Private Pools, Pegged Pools, and Single-Sided Liquidity Pools. These configurations are part of DODO's V2 offerings, designed to enhance capital efficiency and provide flexible liquidity solutions.
@@ -32,4 +36,4 @@ Traditional AMMs, such as Uniswap's constant product formula (x \* y = k), maint
 
 These innovations make DODO's PMM algorithm a flexible and efficient alternative to traditional AMMs, offering improved trading experiences and better capital utilization for liquidity providers.
 
-\
+<br>
