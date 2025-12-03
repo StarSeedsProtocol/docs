@@ -1,6 +1,9 @@
 # Table of contents
 
-* [StarSeeds Protocol Soon to be Astral Protocol](README.md)
+* [Astral Programmatic Yield Tokens](README.md)
+* [ABTC: Astral BTC (WBTC)](abtc-astral-btc-wbtc/README.md)
+  * [ABTC Security & Smart Contracts](abtc-astral-btc-wbtc/abtc-security-and-smart-contracts.md)
+* [StarSeeds Protocol Soon to be Astral Protocol](<README (1).md>)
 * [Why Rebrand to Astral Protocol](why-rebrand-to-astral-protocol.md)
 * [Mission ](mission-and-vision.md)
 * [Integrated Protocols](supported-protocols-and-pools.md)
@@ -41,6 +44,3 @@
   * [Current Treasury Accounting](https://docs.google.com/spreadsheets/d/10Z0fdJ_1Fu3nbIJL3MuGNR4aIRtGFGK8V7UEaikWNws/edit?gid=0#gid=0)
   * [StarSeeds Protocol Transfer Fee Vault](https://polygonscan.com/address/0x2F2aE06999a55DF9c098fE688B7052110E1636d7#tokentxns)
   * [STARV4 QuickSwap Analytics](https://quickswap.exchange/#/analytics/total/token/0x61ffe097137d543f019f5257e1a1ff7a6c5f0b68)
-* [Astral Programmatic Yield Tokens](astral-programmatic-yield-tokens.md)
-* [ABTC: Astral BTC (WBTC)](abtc-astral-btc-wbtc/README.md)
-  * [ABTC Security & Smart Contracts](abtc-astral-btc-wbtc/abtc-security-and-smart-contracts.md)

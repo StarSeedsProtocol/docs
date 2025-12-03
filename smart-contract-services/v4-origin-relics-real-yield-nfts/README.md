@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # V4 Origin Relics: Real Yield NFTs
 
 V4 Origin Relics are similar to dividend-distributing equity stock for the StarSeeds Liquidity Protocol.\

@@ -8,4 +8,4 @@ Private Pools are fully controlled pools where the creator has complete flexibil
 
 These pools are useful for projects that want to maintain control over liquidity and adjust pool configurations dynamically.
 
-\
+<br>

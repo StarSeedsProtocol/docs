@@ -1,17 +1,3 @@
----
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
----
-
 # SS - StarSeeds Yield Derivative Tokens
 
 Similar to stMATIC and wstETH, SS tokens are pegged to the value of original token in such a way that makes each unit of S-token worth more than the original token over time.

@@ -30,17 +30,15 @@ For four assets, it would calculate as w \* x \* y \* z = k\
 \
 Weighted spot price formula to determine swap exchange rates as follows:
 
-\
-
+<br>
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcgCcSwmsEw6Ar6FJa6O9TLnGcDxG-ccaVkBtxj9VXLBSZmHHCQQPrp2_-5LsHRuP9eBnuj8NdYEQ-jw4p0ePCmwGLdAbvJHNOvP3p1EhwsxKi5nGr5WjtLoXBNRAm9GyDDsmKQAA?key=Mn8gS0mHdvtDkUHdD1jktvk7" alt=""><figcaption></figcaption></figure>
 
-\
-
+<br>
 
 Liquidity pools on Balancer can be Controlled or Finalized. Controlled pools are updatable by the pool creator. The Controlled pool allows for asset weight, asset type, and fee adjustments. Finalized pools have fixed pool asset types, weights, and fees.
 
 \
 While Balancer can be thought of as an exchange, it can also be thought of as an index protocol, where the token weightings are set to specific percentages of a pool and arbitrageurs ensure that weighting is maintained.
 
-\
+<br>

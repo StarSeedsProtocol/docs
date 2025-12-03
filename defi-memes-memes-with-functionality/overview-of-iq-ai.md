@@ -19,4 +19,4 @@ StarSeeds Protocol has successfully launched two agents on IQ AI:
    [Learn more about IQYIELD](https://mirror.xyz/starseeds-protocol.eth/F0W48hAnA_fqmR_RcxH4cVk9weKh-Ghs4QzNIrJHTEU)&#x20;
 2. **DK the AI DeFi Trader**: An arbitrage trading bot utilizing advanced financial strategies. [Link to DK Agent](https://app.iqai.com/agents/0x7Ed7ff3e6E66e40B9EE19F376eB4DF89237ad210)
 
-\
+<br>
