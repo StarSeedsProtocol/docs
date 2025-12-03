@@ -14,6 +14,6 @@ This means Protocols and Token Creators that deploy Astral Yield Tokens choose h
 
 
 
-Currently, Astral Yield Tokens are being developed on a case-by-case basis, in the future, a no-code interface and Factory Contracts will enable anyone to deploy a new Astral Programmatic Yield Token Wrapper for any existing ERC20 token.
+Currently, Astral Yield Tokens are being developed on a case-by-case basis, in the future, a no-code interface and Factory Contracts will enable permissionless deployent of Astral Programmatic Yield Token Wrappers based on any potentially any existing ERC20 token. &#x20;
 
 <br>
